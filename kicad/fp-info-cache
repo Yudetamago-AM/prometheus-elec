@@ -1,4 +1,4 @@
-20230610584527470
+20233937804658752
 AkioLib
 5.5_radial_cap
 
@@ -78750,6 +78750,13 @@ Connector
 11
 11
 SamacSys_Parts
+BNO085
+BNO085-1
+Accelerometer
+0
+28
+28
+SamacSys_Parts
 ESP32S3WROOM1N16R2
 ESP32-S3-WROOM-1-N16R2-2
 Integrated Circuit
@@ -78798,6 +78805,13 @@ Integrated Circuit
 0
 4
 4
+SamacSys_Parts
+SOT95P280X145-5N
+2.90 x 2.80 mm SOT23-5_1
+Crystal or Oscillator
+0
+5
+5
 SamacSys_Parts
 SOT230P700X180-4N
 SOT-223-
