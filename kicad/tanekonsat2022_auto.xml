@@ -1,0 +1,2612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\Akio\Desktop\Dev\DERC\tanekonsat2022_runback\kicad\tanekonsat2022_auto.kicad_sch</source>
+    <date>2022/09/20 22:14:08</date>
+    <tool>Eeschema (6.0.4)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>tanekonsat_2022_auto_runback</title>
+        <company>DERC CanSat PJ</company>
+        <rev/>
+        <date/>
+        <source>tanekonsat2022_auto.kicad_sch</source>
+        <comment number="1" value="Akio M"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="AC1">
+      <value>BNO085</value>
+      <footprint>SamacSys_Parts:BNO085</footprint>
+      <datasheet>https://www.hillcrestlabs.com/downloads/bno080-datasheet</datasheet>
+      <fields>
+        <field name="Description">IMU ACCEL/GYRO/MAG I2C 32BIT</field>
+        <field name="Height">1.18</field>
+        <field name="Manufacturer_Name">Hillcrest Laboratories, Inc.</field>
+        <field name="Manufacturer_Part_Number">BNO085</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="BNO085" description="IMU ACCEL/GYRO/MAG I2C 32BIT"/>
+      <property name="Description" value="IMU ACCEL/GYRO/MAG I2C 32BIT"/>
+      <property name="Height" value="1.18"/>
+      <property name="Manufacturer_Name" value="Hillcrest Laboratories, Inc."/>
+      <property name="Manufacturer_Part_Number" value="BNO085"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>834522c7-e267-4bfb-9e18-9e24cb8f6c98</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C1525</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dd5de6b5-3708-4842-a510-05b883c590d1</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>10p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C32949</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C32949"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c2a96dc5-1e11-44cc-8bc1-12cd2911ebba</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C1525</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>32c6e293-ccab-4f53-a358-785bd0cadde6</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C52923</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C52923"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>30be44f2-681a-40c7-b88b-91c1c8fd4881</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>100u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a91fb526-a9ec-4ec5-ad4b-fe70a8e02187</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C1525</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7528cc18-dc1b-46cd-b5ac-65dce36acc73</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C52923</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C52923"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aed8ee3e-0267-4385-bd87-5e21ad0bb22b</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C1525</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a831be1c-a35a-45ff-9163-d964a81c1632</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C52923</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C52923"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>043aa41c-915c-40c4-be0f-37ca526cb969</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C1525</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>177d889f-96fd-4baa-ae33-eef081dfa7b2</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C1525</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dc7315e7-fcbe-4c91-85fb-57b5e4747edd</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C1525</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>68abb9b7-d55c-41f7-8d75-55221e42a17f</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C1525</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8eb33e58-ef11-4de9-83dd-734692e4951c</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C1525</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4831766d-0927-4849-93e4-b4a6c3c8a10c</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C1525</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e131505b-0cd7-4385-b69a-7e96d74f368c</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C52923</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C52923"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c2a5df64-c4bf-4e0a-a043-26794ac23da3</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>100u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c6a5cf3-b1b8-4b33-a364-c2b418d3f9da</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>100u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2614a953-1af5-4114-b52c-cb68efeb217d</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>100u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c14cef39-52d6-4641-9b24-0253bb1458c9</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>100u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2da7faa9-d20d-4d14-b9db-4a1d3e59c764</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>100u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5583c277-37b7-429f-abeb-787db5b36627</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>100u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f306d3ae-5a77-49b1-be60-cfd84bc32563</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>100u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1535ab3b-f8c8-4c42-b9bd-0e6c84036d8a</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>1p</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C1550</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C1550"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>874cde2a-c0b8-4ad7-9938-f57e65d3b75c</tstamps>
+    </comp>
+    <comp ref="C25">
+      <value>100p</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C1546</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C1546"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>63980baa-b1c8-4f07-bbd1-240a7934b4e5</tstamps>
+    </comp>
+    <comp ref="C26">
+      <value>100u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d15f2b7a-1ea1-4e0c-86ec-2e052b7019b2</tstamps>
+    </comp>
+    <comp ref="C27">
+      <value>120p</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C307442</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C307442"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ea1c23c-14e5-40d7-b438-68ee8039d86d</tstamps>
+    </comp>
+    <comp ref="C28">
+      <value>100p</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C1546</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C1546"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d005ef00-aca0-4c8e-8206-33425beae06c</tstamps>
+    </comp>
+    <comp ref="C29">
+      <value>470p</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C1537</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C1537"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>506c5e4e-50c8-4d08-ad0b-ff26c991306f</tstamps>
+    </comp>
+    <comp ref="C30">
+      <value>100u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>64cba8b4-7277-43f3-ad9d-99fadf1e5b29</tstamps>
+    </comp>
+    <comp ref="C33">
+      <value>100u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7930b728-277d-4038-952b-3db069b80271</tstamps>
+    </comp>
+    <comp ref="C34">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C1525</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>959698de-a8b0-4703-bcd3-b6acfdd5a542</tstamps>
+    </comp>
+    <comp ref="C35">
+      <value>22p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C1555</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C1555"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>45d15df5-4233-4bd8-a9c5-91cf48711def</tstamps>
+    </comp>
+    <comp ref="C36">
+      <value>22p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C1555</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C1555"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3dc1e0fd-21d5-4946-8bf4-13d477736a0c</tstamps>
+    </comp>
+    <comp ref="C37">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C1525</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4285b1a7-0c16-48f6-b346-746b6ce99d09</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6a1bab0f-49e2-4d27-abd3-bdaeaba633a0</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>LED</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1ec00482-8e45-4d33-a0aa-dfb080a1ee47</tstamps>
+    </comp>
+    <comp ref="FL1">
+      <value>SAFEA1G58KA0F00R15</value>
+      <footprint>SamacSys_Parts:SAFEA1G58KA0F00R15</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/Murata-Electronics-SAFEA1G58KA0F00R15_C91641.pdf</datasheet>
+      <fields>
+        <field name="Description">Signal Conditioning</field>
+        <field name="Height">0.5</field>
+        <field name="LCSC">C91641</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">SAFEA1G58KA0F00R15</field>
+        <field name="Mouser Part Number">N/A</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Murata-Power-Solutions/SAFEA1G58KA0F00R15?qs=H5EaGE3Pc5kSHffIWWQS%252Bw%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="SAFEA1G58KA0F00R15" description="Signal Conditioning"/>
+      <property name="Description" value="Signal Conditioning"/>
+      <property name="Height" value="0.5"/>
+      <property name="Manufacturer_Name" value="Murata Electronics"/>
+      <property name="Manufacturer_Part_Number" value="SAFEA1G58KA0F00R15"/>
+      <property name="Mouser Part Number" value="N/A"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Murata-Power-Solutions/SAFEA1G58KA0F00R15?qs=H5EaGE3Pc5kSHffIWWQS%252Bw%3D%3D"/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="LCSC" value="C91641"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>64e9c143-ab0f-413b-bcc4-94310a9731e9</tstamps>
+    </comp>
+    <comp ref="IC1">
+      <value>W25Q128JVSIQ</value>
+      <footprint>SamacSys_Parts:SOIC127P790X216-8N</footprint>
+      <datasheet>https://www.winbond.com/resource-files/w25q128jv%20revf%2003272018%20plus.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">W25Q128JVSIQ</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/w25q128jvsiq/winbond-electronics?region=nac</field>
+        <field name="Description">NOR Flash spiFlash, 3V, 128M-bit, 4Kb Uniform Sector</field>
+        <field name="Height">2.16</field>
+        <field name="LCSC">C97521</field>
+        <field name="Manufacturer_Name">Winbond</field>
+        <field name="Manufacturer_Part_Number">W25Q128JVSIQ</field>
+        <field name="Mouser Part Number">454-W25Q128JVSIQ</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Winbond/W25Q128JVSIQ?qs=qSfuJ%252Bfl%2Fd6tLXvPR4fl9w%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="W25Q128JVSIQ" description="NOR Flash spiFlash, 3V, 128M-bit, 4Kb Uniform Sector"/>
+      <property name="Description" value="NOR Flash spiFlash, 3V, 128M-bit, 4Kb Uniform Sector"/>
+      <property name="Height" value="2.16"/>
+      <property name="Manufacturer_Name" value="Winbond"/>
+      <property name="Manufacturer_Part_Number" value="W25Q128JVSIQ"/>
+      <property name="Mouser Part Number" value="454-W25Q128JVSIQ"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Winbond/W25Q128JVSIQ?qs=qSfuJ%252Bfl%2Fd6tLXvPR4fl9w%3D%3D"/>
+      <property name="Arrow Part Number" value="W25Q128JVSIQ"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/w25q128jvsiq/winbond-electronics?region=nac"/>
+      <property name="LCSC" value="C97521"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aab001ef-dcb8-4eb5-90fb-36918f9e1000</tstamps>
+    </comp>
+    <comp ref="IC2">
+      <value>ADP3338AKCZ-3.3-RL</value>
+      <footprint>SamacSys_Parts:SOT230P700X180-4N</footprint>
+      <datasheet>http://www.analog.com/media/en/technical-documentation/data-sheets/ADP3338.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">ADP3338AKCZ-3.3-RL</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/adp3338akcz-3.3-rl/analog-devices?region=nac</field>
+        <field name="Description">LDO Voltage Regulator anyCAP 1A SOT223-3 Analog Devices ADP3338AKCZ-3.3-RL, LDO Voltage Regulator, 1.6A, 3.3 V +/-0.8%, 2.7  8 Vin, 3 + Tab-Pin SOT-223</field>
+        <field name="Height">1.8</field>
+        <field name="Manufacturer_Name">Analog Devices</field>
+        <field name="Manufacturer_Part_Number">ADP3338AKCZ-3.3-RL</field>
+        <field name="Mouser Part Number">584-ADP3338AKCZ3.3R</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADP3338AKCZ-33-RL?qs=WIvQP4zGangPtIg4n%252B1tTA%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="ADP3338AKCZ-3.3-RL" description="LDO Voltage Regulator anyCAP 1A SOT223-3 Analog Devices ADP3338AKCZ-3.3-RL, LDO Voltage Regulator, 1.6A, 3.3 V +/-0.8%, 2.7  8 Vin, 3 + Tab-Pin SOT-223"/>
+      <property name="Description" value="LDO Voltage Regulator anyCAP 1A SOT223-3 Analog Devices ADP3338AKCZ-3.3-RL, LDO Voltage Regulator, 1.6A, 3.3 V +/-0.8%, 2.7  8 Vin, 3 + Tab-Pin SOT-223"/>
+      <property name="Height" value="1.8"/>
+      <property name="Manufacturer_Name" value="Analog Devices"/>
+      <property name="Manufacturer_Part_Number" value="ADP3338AKCZ-3.3-RL"/>
+      <property name="Mouser Part Number" value="584-ADP3338AKCZ3.3R"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADP3338AKCZ-33-RL?qs=WIvQP4zGangPtIg4n%252B1tTA%3D%3D"/>
+      <property name="Arrow Part Number" value="ADP3338AKCZ-3.3-RL"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/adp3338akcz-3.3-rl/analog-devices?region=nac"/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4fae0412-5b01-4b59-b9df-f35c89d1d9b6</tstamps>
+    </comp>
+    <comp ref="IC4">
+      <value>TESEO-LIV3F</value>
+      <footprint>SamacSys_Parts:SON110P970X1010X230-18N</footprint>
+      <datasheet>https://www.st.com/resource/en/datasheet/teseo-liv3f.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">TESEO-LIV3F</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/teseo-liv3f/stmicroelectronics</field>
+        <field name="Description">GPS Modules Tiny GNSS module</field>
+        <field name="Height">2.3</field>
+        <field name="Manufacturer_Name">STMicroelectronics</field>
+        <field name="Manufacturer_Part_Number">TESEO-LIV3F</field>
+        <field name="Mouser Part Number">511-TESEO-LIV3F</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/STMicroelectronics/TESEO-LIV3F?qs=HXFqYaX1Q2wXp9tn7dEmMw%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="TESEO-LIV3F" description="GPS Modules Tiny GNSS module"/>
+      <property name="Description" value="GPS Modules Tiny GNSS module"/>
+      <property name="Height" value="2.3"/>
+      <property name="Manufacturer_Name" value="STMicroelectronics"/>
+      <property name="Manufacturer_Part_Number" value="TESEO-LIV3F"/>
+      <property name="Mouser Part Number" value="511-TESEO-LIV3F"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/STMicroelectronics/TESEO-LIV3F?qs=HXFqYaX1Q2wXp9tn7dEmMw%3D%3D"/>
+      <property name="Arrow Part Number" value="TESEO-LIV3F"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/teseo-liv3f/stmicroelectronics"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9eeb0751-54e4-46aa-a6a1-a7b1f9884e3f</tstamps>
+    </comp>
+    <comp ref="IC5">
+      <value>CGGBPD.25.A</value>
+      <footprint>SamacSys_Parts:CGGBPD25A</footprint>
+      <datasheet>https://cdn.taoglas.com/datasheets/CGGBP.25.4.A.02.pdf</datasheet>
+      <fields>
+        <field name="Description">EVAL BOARD GPS/GLONASS/BEIDOU</field>
+        <field name="Height">5.4</field>
+        <field name="Manufacturer_Name">Taoglas</field>
+        <field name="Manufacturer_Part_Number">CGGBPD.25.A</field>
+        <field name="Mouser Part Number">960-CGGBPD.25.A</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Taoglas/CGGBPD25A?qs=gQGbhTXPkfgXlaXTNwnwuA%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="CGGBPD.25.A" description="EVAL BOARD GPS/GLONASS/BEIDOU"/>
+      <property name="Description" value="EVAL BOARD GPS/GLONASS/BEIDOU"/>
+      <property name="Height" value="5.4"/>
+      <property name="Manufacturer_Name" value="Taoglas"/>
+      <property name="Manufacturer_Part_Number" value="CGGBPD.25.A"/>
+      <property name="Mouser Part Number" value="960-CGGBPD.25.A"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Taoglas/CGGBPD25A?qs=gQGbhTXPkfgXlaXTNwnwuA%3D%3D"/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>25a1bde2-68c9-4a8f-a5da-e244ae8fb243</tstamps>
+    </comp>
+    <comp ref="IC6">
+      <value>MAX2641EUT+T</value>
+      <footprint>SamacSys_Parts:SOT95P280X145-6N</footprint>
+      <datasheet>https://datasheets.maximintegrated.com/en/ds/MAX2640-MAX2641.pdf</datasheet>
+      <fields>
+        <field name="Description">MAXIM INTEGRATED PRODUCTS - MAX2641EUT+T - RF Amplifier, 15.7 dB Gain / 1.5 dB Noise, 300 MHz to 1.5 GHz, 2.7 V to 5.5 V Supply, SOT-23-6</field>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">Maxim Integrated</field>
+        <field name="Manufacturer_Part_Number">MAX2641EUT+T</field>
+        <field name="Mouser Part Number">700-MAX2641EUTT</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX2641EUT%2bT/?qs=1THa7WoU59H%252B6w0O8v3kqQ%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="MAX2641EUT+T" description="MAXIM INTEGRATED PRODUCTS - MAX2641EUT+T - RF Amplifier, 15.7 dB Gain / 1.5 dB Noise, 300 MHz to 1.5 GHz, 2.7 V to 5.5 V Supply, SOT-23-6"/>
+      <property name="Description" value="MAXIM INTEGRATED PRODUCTS - MAX2641EUT+T - RF Amplifier, 15.7 dB Gain / 1.5 dB Noise, 300 MHz to 1.5 GHz, 2.7 V to 5.5 V Supply, SOT-23-6"/>
+      <property name="Height" value="1.45"/>
+      <property name="Manufacturer_Name" value="Maxim Integrated"/>
+      <property name="Manufacturer_Part_Number" value="MAX2641EUT+T"/>
+      <property name="Mouser Part Number" value="700-MAX2641EUTT"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX2641EUT%2bT/?qs=1THa7WoU59H%252B6w0O8v3kqQ%3D%3D"/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>983f9dc1-6119-4dee-8023-04c7bba85494</tstamps>
+    </comp>
+    <comp ref="IC7">
+      <value>TB67H450FNG,EL</value>
+      <footprint>SamacSys_Parts:SOIC127P600X175-9N</footprint>
+      <datasheet>http://toshiba.semicon-storage.com/info/docget.jsp?did=65346&amp;prodName=TB67H450FNG</datasheet>
+      <fields>
+        <field name="Description">Motor / Motion / Ignition Controllers &amp; Drivers Brushed Motor Driver IC, 50V, 3.5A, TSSOP8 Package, PB-FREE</field>
+        <field name="Height">1.75</field>
+        <field name="Manufacturer_Name">Toshiba</field>
+        <field name="Manufacturer_Part_Number">TB67H450FNG,EL</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="TB67H450FNG,EL" description="Motor / Motion / Ignition Controllers &amp; Drivers Brushed Motor Driver IC, 50V, 3.5A, TSSOP8 Package, PB-FREE"/>
+      <property name="Description" value="Motor / Motion / Ignition Controllers &amp; Drivers Brushed Motor Driver IC, 50V, 3.5A, TSSOP8 Package, PB-FREE"/>
+      <property name="Height" value="1.75"/>
+      <property name="RS Part Number" value=""/>
+      <property name="RS Price/Stock" value=""/>
+      <property name="Manufacturer_Name" value="Toshiba"/>
+      <property name="Manufacturer_Part_Number" value="TB67H450FNG,EL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>980ca874-17f3-4e77-a79d-aafa4594d3b4</tstamps>
+    </comp>
+    <comp ref="IC8">
+      <value>TB67H450FNG,EL</value>
+      <footprint>SamacSys_Parts:SOIC127P600X175-9N</footprint>
+      <datasheet>http://toshiba.semicon-storage.com/info/docget.jsp?did=65346&amp;prodName=TB67H450FNG</datasheet>
+      <fields>
+        <field name="Description">Motor / Motion / Ignition Controllers &amp; Drivers Brushed Motor Driver IC, 50V, 3.5A, TSSOP8 Package, PB-FREE</field>
+        <field name="Height">1.75</field>
+        <field name="Manufacturer_Name">Toshiba</field>
+        <field name="Manufacturer_Part_Number">TB67H450FNG,EL</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="TB67H450FNG,EL" description="Motor / Motion / Ignition Controllers &amp; Drivers Brushed Motor Driver IC, 50V, 3.5A, TSSOP8 Package, PB-FREE"/>
+      <property name="Description" value="Motor / Motion / Ignition Controllers &amp; Drivers Brushed Motor Driver IC, 50V, 3.5A, TSSOP8 Package, PB-FREE"/>
+      <property name="Height" value="1.75"/>
+      <property name="RS Part Number" value=""/>
+      <property name="RS Price/Stock" value=""/>
+      <property name="Manufacturer_Name" value="Toshiba"/>
+      <property name="Manufacturer_Part_Number" value="TB67H450FNG,EL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>48fcf1f4-ff8b-4b73-9158-da3c55031423</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x02_Male</value>
+      <footprint>Connector_JST:JST_PH_S3B-PH-K_1x03_P2.00mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Male" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>56853392-ca16-4ec4-954a-aada0628668d</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x02_Male</value>
+      <footprint>tanekonsat:PinHeader_1x02_P2.00mm_Vertical</footprint>
+      <libsource lib="" part="Conn_01x02_Male_1" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eff6a7e6-8134-4d8d-a42a-ba759c9c23dc</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_01x02_Male</value>
+      <footprint>tanekonsat:PinHeader_1x02_P2.00mm_Vertical</footprint>
+      <libsource lib="" part="Conn_01x02_Male_1" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1d7a1198-99b1-4f28-ab7a-19e6d9b936a3</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>Conn_01x04_Male</value>
+      <footprint>tanekonsat:PinHeader_1x04_P2.00mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x04_Male" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f1ce2a2d-6887-44f9-a07d-755699fd2f08</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>Conn_01x04_Male</value>
+      <footprint>tanekonsat:PinHeader_1x04_P2.00mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x04_Male" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ea6920e9-c346-4f6e-acf6-5366438356bb</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>Conn_01x04_Female</value>
+      <footprint>tanekonsat:PinHeader_1x04_P2.00mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x04_Female" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c82ca2c2-8bbd-4659-988d-137360c66a22</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>Conn_01x02_Female</value>
+      <footprint>Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Female" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e5f67f09-906a-42ef-906d-bd9148ac6de6</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>Conn_01x05_Female</value>
+      <footprint>tanekonsat:PinHeader_1x05_P2.00mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x05_Female" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>46b8ba55-8d05-4734-884b-5efb2fd79efd</tstamps>
+    </comp>
+    <comp ref="J10">
+      <value>Conn_01x05_Female</value>
+      <footprint>tanekonsat:PinHeader_1x05_P2.00mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x05_Female" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c5ce6de3-f55f-416a-a3a7-d42f03be0e44</tstamps>
+    </comp>
+    <comp ref="J11">
+      <value>Conn_01x02_Female</value>
+      <footprint>tanekonsat:PinHeader_1x02_P2.00mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Female" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a65a5a5e-4a07-4955-8619-96594f13b76a</tstamps>
+    </comp>
+    <comp ref="J12">
+      <value>Conn_01x02_Female</value>
+      <libsource lib="Connector" part="Conn_01x02_Female" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5c73a769-bfa1-406a-91e7-014a758d3e00</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>5.6n</value>
+      <footprint>Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>68321411-9b61-4d47-9c57-7f5fb1bde35e</tstamps>
+    </comp>
+    <comp ref="L2">
+      <value>6.8n</value>
+      <footprint>Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>78c34d53-b70b-44f0-bc17-dffb56c3c8d7</tstamps>
+    </comp>
+    <comp ref="M1">
+      <value>Motor_DC</value>
+      <footprint>tanekonsat:PinHeader_1x02_P2.00mm_Vertical</footprint>
+      <libsource lib="Motor" part="Motor_DC" description="DC Motor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f1bf31f1-be51-4bf7-bd62-4c1691fb964a</tstamps>
+    </comp>
+    <comp ref="M2">
+      <value>Motor_DC</value>
+      <footprint>tanekonsat:PinHeader_1x02_P2.00mm_Vertical</footprint>
+      <libsource lib="Motor" part="Motor_DC" description="DC Motor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8b7d59e3-baa8-4261-a49d-9c141693cddb</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>Q_NMOS_DGS</value>
+      <footprint>SamacSys_Parts:SOT95P237X112-3N</footprint>
+      <libsource lib="Device" part="Q_NMOS_DGS" description="N-MOSFET transistor, drain/gate/source"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e94a678b-cf63-419a-9e44-6c23b4da42cb</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>Q_NMOS_DGS</value>
+      <footprint>SamacSys_Parts:SOT95P237X112-3N</footprint>
+      <libsource lib="Device" part="Q_NMOS_DGS" description="N-MOSFET transistor, drain/gate/source"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3d3a129b-fd8e-4e15-ac02-2669b1aa2525</tstamps>
+    </comp>
+    <comp ref="Q7">
+      <value>Q_NMOS_DGS</value>
+      <footprint>SamacSys_Parts:SOT95P237X112-3N</footprint>
+      <libsource lib="Device" part="Q_NMOS_DGS" description="N-MOSFET transistor, drain/gate/source"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e687c8ea-61cb-490c-a319-cc066632c2bd</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10k</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C25744</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25744"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d7e83e87-6535-4c96-9518-12c1f4322c0e</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>1k</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C11702</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C11702"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3c2c65a6-d636-4ab7-87d6-7a98a11f2424</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>DNF</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ebcafe8f-7951-4f65-8281-dab539b79d85</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10k</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C25744</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25744"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d6c020b9-23b5-4f44-a5a2-6576b0ca0465</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>27</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C25771</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25771"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0d40fb99-5178-4482-9b02-d6e8fac51253</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>27</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C25771</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25771"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f4a63404-af6c-4518-931a-4da603e99c6f</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>1k</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C11702</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C11702"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5cd59836-7512-4375-8953-ce435ab76ce0</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>1k</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C11702</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C11702"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c7fdb39e-388e-4325-a616-9f0d039e8439</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>10k</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C25744</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25744"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c779be3e-ebd7-4744-a5db-6dc14afcb08a</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>0.01</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>39a6585d-83d7-4868-b3f0-a57b2ac16d55</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>10k</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C25744</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25744"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1a86f9c8-adc4-48df-82a0-abd29d2c82a7</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>100</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8395b6e7-85da-4f54-a9a7-2be366dc3e1d</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>1k</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b621ed93-7378-46ed-a52e-b7b95c74364c</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>3k</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00856986-6f2f-4963-9ebb-1dcf7efb36a0</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>1k</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>62eaf695-ec58-4132-9b4d-730429388813</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3efe48fa-3bff-454d-8e51-93fbfc6b7e67</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4b23136b-f9d0-4fd8-b1c9-9856a95ca3cf</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>50fcc0aa-1579-4571-8336-1a92cd026ded</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6559ccde-bbfa-40af-8ad2-26386eaa3cbe</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0df10d93-63d1-42bf-b5c5-fc4be0494bbb</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5132338b-d784-4a80-ba88-45666a272fea</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>1k</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C11702</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C11702"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6f844968-e668-41fc-b7bc-c448e9a13f70</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>10k</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C25744</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25744"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>79c194e8-8b5b-42b5-b66b-aa6e278731aa</tstamps>
+    </comp>
+    <comp ref="S1">
+      <value>SKRPACE010</value>
+      <footprint>SamacSys_Parts:SMT_4.2X3.2_</footprint>
+      <datasheet>http://www.alps.com/prod/info/E/HTML/Tact/SurfaceMount/SKRP/SKRPACE010.html</datasheet>
+      <fields>
+        <field name="Arrow Part Number">SKRPACE010</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/skrpace010/alps-electric</field>
+        <field name="Description">Tactile Switches 4.2x3.2x2.5mm 260gf</field>
+        <field name="Manufacturer_Name">ALPS Electric</field>
+        <field name="Manufacturer_Part_Number">SKRPACE010</field>
+        <field name="Mouser Part Number">688-SKRPACE010</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Alps-Alpine/SKRPACE010?qs=dHDuPHwQO79W8iY66hDbLQ%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="SKRPACE010" description="Tactile Switches 4.2x3.2x2.5mm 260gf"/>
+      <property name="Description" value="Tactile Switches 4.2x3.2x2.5mm 260gf"/>
+      <property name="Height" value=""/>
+      <property name="Manufacturer_Name" value="ALPS Electric"/>
+      <property name="Manufacturer_Part_Number" value="SKRPACE010"/>
+      <property name="Mouser Part Number" value="688-SKRPACE010"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Alps-Alpine/SKRPACE010?qs=dHDuPHwQO79W8iY66hDbLQ%3D%3D"/>
+      <property name="Arrow Part Number" value="SKRPACE010"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/skrpace010/alps-electric"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9b56cd8a-ebf9-458b-b49c-011cd1959228</tstamps>
+    </comp>
+    <comp ref="S2">
+      <value>SKRPACE010</value>
+      <footprint>SamacSys_Parts:SMT_4.2X3.2_</footprint>
+      <datasheet>http://www.alps.com/prod/info/E/HTML/Tact/SurfaceMount/SKRP/SKRPACE010.html</datasheet>
+      <fields>
+        <field name="Arrow Part Number">SKRPACE010</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/skrpace010/alps-electric</field>
+        <field name="Description">Tactile Switches 4.2x3.2x2.5mm 260gf</field>
+        <field name="Manufacturer_Name">ALPS Electric</field>
+        <field name="Manufacturer_Part_Number">SKRPACE010</field>
+        <field name="Mouser Part Number">688-SKRPACE010</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Alps-Alpine/SKRPACE010?qs=dHDuPHwQO79W8iY66hDbLQ%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="SKRPACE010" description="Tactile Switches 4.2x3.2x2.5mm 260gf"/>
+      <property name="Description" value="Tactile Switches 4.2x3.2x2.5mm 260gf"/>
+      <property name="Height" value=""/>
+      <property name="Manufacturer_Name" value="ALPS Electric"/>
+      <property name="Manufacturer_Part_Number" value="SKRPACE010"/>
+      <property name="Mouser Part Number" value="688-SKRPACE010"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Alps-Alpine/SKRPACE010?qs=dHDuPHwQO79W8iY66hDbLQ%3D%3D"/>
+      <property name="Arrow Part Number" value="SKRPACE010"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/skrpace010/alps-electric"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6c7c257c-43ea-4df0-bd5e-2ec621e622d0</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_DIP_x01</value>
+      <footprint>SamacSys_Parts:SSAJ120100</footprint>
+      <libsource lib="Switch" part="SW_DIP_x01" description="1x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d4cee0a-1970-48a6-88ce-17f4841a8f60</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>RP2040</value>
+      <footprint>RP2040:RP2040-QFN-56</footprint>
+      <fields>
+        <field name="LCSC">C2040</field>
+      </fields>
+      <libsource lib="MCU_RaspberryPi_RP2040" part="RP2040" description=""/>
+      <property name="LCSC" value="C2040"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c67ff7e3-8554-406f-82eb-351cf442f82f</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>CR1025</value>
+      <footprint>tanekonsat:CR1025_Holder</footprint>
+      <libsource lib="tanekonsat" part="CR2032" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>483dcd72-d815-49e1-9bb2-5658cc1c7741</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>VL53L5X_SL</value>
+      <libsource lib="tanekonsat" part="VL53L5X_SL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9e2aff7e-da87-44cf-974e-fdeb1c729617</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>USB_type_C</value>
+      <footprint>tanekonsat:USB_typeC_t</footprint>
+      <libsource lib="tanekonsat" part="USB_type_C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6e58c26d-9e7d-4f49-b28c-20a64666ce39</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>LT6106</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>https://www.analog.com/media/en/technical-documentation/data-sheets/6106fb.pdf</datasheet>
+      <libsource lib="Amplifier_Current" part="LT6106" description="36V Low Cost, High Side Current Sense, SOT-23-5"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>660e6b97-390d-4edd-b716-258a474c64c1</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>Opamp_Dual</value>
+      <footprint>Package_SO:SSOP-8_5.25x5.24mm_P1.27mm</footprint>
+      <libsource lib="Device" part="Opamp_Dual" description="Dual operational amplifier"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a5e93a79-7cdc-4173-b541-3f86dcfa3ee4 9653813a-94cd-427e-9914-adc10b9419c3 4b3c839d-fa56-403c-b046-98e3964ef08e</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value>SIT2001BI-S2-33E-12.000000D</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>https://www.sitime.com/datasheet/SiT2001</datasheet>
+      <fields>
+        <field name="Description">OSC MEMS 12.0000MHZ H/LVCMOS SMD</field>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">SiTime</field>
+        <field name="Manufacturer_Part_Number">SIT2001BI-S2-33E-12.000000D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="SIT2001BI-S2-33E-12.000000D" description="OSC MEMS 12.0000MHZ H/LVCMOS SMD"/>
+      <property name="Description" value="OSC MEMS 12.0000MHZ H/LVCMOS SMD"/>
+      <property name="Height" value="1.45"/>
+      <property name="Manufacturer_Name" value="SiTime"/>
+      <property name="Manufacturer_Part_Number" value="SIT2001BI-S2-33E-12.000000D"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2e14ab5b-543b-49ea-8ca6-e6353681aa66</tstamps>
+    </comp>
+    <comp ref="Y2">
+      <value>FC-135_32.768KHz_7pF_+_-20ppm</value>
+      <footprint>SamacSys_Parts:FC-135</footprint>
+      <datasheet>http://www.farnell.com/datasheets/1678503.pdf</datasheet>
+      <fields>
+        <field name="Description">Crystal SMD 32.768KHz 1.5x3.2mm Crystal 32.768kHz,  /-20ppm, 2-Pin SMD, 3.2 x 1.5 x 0.8mm</field>
+        <field name="Manufacturer_Name">Epson Timing</field>
+        <field name="Manufacturer_Part_Number">FC-135 32.768KHz 7pF +/-20ppm</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="FC-135_32.768KHz_7pF_+_-20ppm" description="Crystal SMD 32.768KHz 1.5x3.2mm Crystal 32.768kHz,  /-20ppm, 2-Pin SMD, 3.2 x 1.5 x 0.8mm"/>
+      <property name="Description" value="Crystal SMD 32.768KHz 1.5x3.2mm Crystal 32.768kHz,  /-20ppm, 2-Pin SMD, 3.2 x 1.5 x 0.8mm"/>
+      <property name="Height" value=""/>
+      <property name="Manufacturer_Name" value="Epson Timing"/>
+      <property name="Manufacturer_Part_Number" value="FC-135 32.768KHz 7pF +/-20ppm"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tanekonsat2022_auto.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f2acbede-5450-4f5f-bee5-b519a5d2db02</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="" part="Conn_01x02_Male_1">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02_Male_1</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Amplifier_Current" part="LT6106">
+      <description>36V Low Cost, High Side Current Sense, SOT-23-5</description>
+      <docs>https://www.analog.com/media/en/technical-documentation/data-sheets/6106fb.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LT6106</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">https://www.analog.com/media/en/technical-documentation/data-sheets/6106fb.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="open_collector"/>
+        <pin num="2" name="V-" type="power_in"/>
+        <pin num="3" name="-" type="input"/>
+        <pin num="4" name="+" type="input"/>
+        <pin num="5" name="V+" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x02_Female">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02_Female</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x02_Male">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J?</field>
+        <field name="Value">Conn_01x02_Male</field>
+        <field name="Footprint">Connector_JST:JST_PH_S3B-PH-K_1x03_P2.00mm_Horizontal</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="3" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x04_Female">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04_Female</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x04_Male">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x05_Female">
+      <description>Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x05_Female</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L">
+      <description>Inductor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Opamp_Dual">
+      <description>Dual operational amplifier</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SOIC*3.9x4.9mm*P1.27mm*</fp>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>MSOP*3x3mm*P0.65mm*</fp>
+        <fp>SSOP*2.95x2.8mm*P0.65mm*</fp>
+        <fp>TSSOP*3x3mm*P0.65mm*</fp>
+        <fp>VSSOP*P0.5mm*</fp>
+        <fp>TO?99*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">Opamp_Dual</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="output"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="V-" type="power_in"/>
+        <pin num="5" name="+" type="input"/>
+        <pin num="6" name="-" type="input"/>
+        <pin num="7" name="" type="output"/>
+        <pin num="8" name="V+" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Q_NMOS_DGS">
+      <description>N-MOSFET transistor, drain/gate/source</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">Q?</field>
+        <field name="Value">Q_NMOS_DGS</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="1N4148W">
+      <description>75V 0.15A Fast Switching Diode, SOD-123</description>
+      <docs>https://www.vishay.com/docs/85748/1n4148w.pdf</docs>
+      <footprints>
+        <fp>D*SOD?123*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N4148W</field>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet">https://www.vishay.com/docs/85748/1n4148w.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCU_RaspberryPi_RP2040" part="RP2040">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">RP2040</field>
+        <field name="Footprint">RP2040_minimal:RP2040-QFN-56</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IOVDD" type="power_in"/>
+        <pin num="2" name="GPIO0" type="bidirectional"/>
+        <pin num="3" name="GPIO1" type="bidirectional"/>
+        <pin num="4" name="GPIO2" type="bidirectional"/>
+        <pin num="5" name="GPIO3" type="bidirectional"/>
+        <pin num="6" name="GPIO4" type="bidirectional"/>
+        <pin num="7" name="GPIO5" type="bidirectional"/>
+        <pin num="8" name="GPIO6" type="bidirectional"/>
+        <pin num="9" name="GPIO7" type="bidirectional"/>
+        <pin num="10" name="IOVDD" type="power_in"/>
+        <pin num="11" name="GPIO8" type="bidirectional"/>
+        <pin num="12" name="GPIO9" type="bidirectional"/>
+        <pin num="13" name="GPIO10" type="bidirectional"/>
+        <pin num="14" name="GPIO11" type="bidirectional"/>
+        <pin num="15" name="GPIO12" type="bidirectional"/>
+        <pin num="16" name="GPIO13" type="bidirectional"/>
+        <pin num="17" name="GPIO14" type="bidirectional"/>
+        <pin num="18" name="GPIO15" type="bidirectional"/>
+        <pin num="19" name="TESTEN" type="passive"/>
+        <pin num="20" name="XIN" type="input"/>
+        <pin num="21" name="XOUT" type="passive"/>
+        <pin num="22" name="IOVDD" type="power_in"/>
+        <pin num="23" name="DVDD" type="power_in"/>
+        <pin num="24" name="SWCLK" type="output"/>
+        <pin num="25" name="SWD" type="bidirectional"/>
+        <pin num="26" name="RUN" type="input"/>
+        <pin num="27" name="GPIO16" type="bidirectional"/>
+        <pin num="28" name="GPIO17" type="bidirectional"/>
+        <pin num="29" name="GPIO18" type="bidirectional"/>
+        <pin num="30" name="GPIO19" type="bidirectional"/>
+        <pin num="31" name="GPIO20" type="bidirectional"/>
+        <pin num="32" name="GPIO21" type="bidirectional"/>
+        <pin num="33" name="IOVDD" type="power_in"/>
+        <pin num="34" name="GPIO22" type="bidirectional"/>
+        <pin num="35" name="GPIO23" type="bidirectional"/>
+        <pin num="36" name="GPIO24" type="bidirectional"/>
+        <pin num="37" name="GPIO25" type="bidirectional"/>
+        <pin num="38" name="GPIO26_ADC0" type="bidirectional"/>
+        <pin num="39" name="GPIO27_ADC1" type="bidirectional"/>
+        <pin num="40" name="GPIO28_ADC2" type="bidirectional"/>
+        <pin num="41" name="GPIO29_ADC3" type="bidirectional"/>
+        <pin num="42" name="IOVDD" type="power_in"/>
+        <pin num="43" name="ADC_AVDD" type="power_in"/>
+        <pin num="44" name="VREG_IN" type="power_in"/>
+        <pin num="45" name="VREG_VOUT" type="power_out"/>
+        <pin num="46" name="USB_DM" type="bidirectional"/>
+        <pin num="47" name="USB_DP" type="bidirectional"/>
+        <pin num="48" name="USB_VDD" type="power_in"/>
+        <pin num="49" name="IOVDD" type="power_in"/>
+        <pin num="50" name="DVDD" type="power_in"/>
+        <pin num="51" name="QSPI_SD3" type="bidirectional"/>
+        <pin num="52" name="QSPI_SCLK" type="output"/>
+        <pin num="53" name="QSPI_SD0" type="bidirectional"/>
+        <pin num="54" name="QSPI_SD2" type="bidirectional"/>
+        <pin num="55" name="QSPI_SD1" type="bidirectional"/>
+        <pin num="56" name="QSPI_SS" type="bidirectional"/>
+        <pin num="57" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Motor" part="Motor_DC">
+      <description>DC Motor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>PinHeader*P2.54mm*</fp>
+        <fp>TerminalBlock*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">Motor_DC</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+" type="passive"/>
+        <pin num="2" name="-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="ADP3338AKCZ-3.3-RL">
+      <description>LDO Voltage Regulator anyCAP 1A SOT223-3 Analog Devices ADP3338AKCZ-3.3-RL, LDO Voltage Regulator, 1.6A, 3.3 V +/-0.8%, 2.7  8 Vin, 3 + Tab-Pin SOT-223</description>
+      <docs>http://www.analog.com/media/en/technical-documentation/data-sheets/ADP3338.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">ADP3338AKCZ-3.3-RL</field>
+        <field name="Footprint">SOT230P700X180-4N</field>
+        <field name="Datasheet">http://www.analog.com/media/en/technical-documentation/data-sheets/ADP3338.pdf</field>
+        <field name="Description">LDO Voltage Regulator anyCAP 1A SOT223-3 Analog Devices ADP3338AKCZ-3.3-RL, LDO Voltage Regulator, 1.6A, 3.3 V +/-0.8%, 2.7  8 Vin, 3 + Tab-Pin SOT-223</field>
+        <field name="Height">1.8</field>
+        <field name="Manufacturer_Name">Analog Devices</field>
+        <field name="Manufacturer_Part_Number">ADP3338AKCZ-3.3-RL</field>
+        <field name="Mouser Part Number">584-ADP3338AKCZ3.3R</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADP3338AKCZ-33-RL?qs=WIvQP4zGangPtIg4n%252B1tTA%3D%3D</field>
+        <field name="Arrow Part Number">ADP3338AKCZ-3.3-RL</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/adp3338akcz-3.3-rl/analog-devices?region=nac</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="passive"/>
+        <pin num="2" name="OUT_1" type="passive"/>
+        <pin num="3" name="IN" type="passive"/>
+        <pin num="4" name="OUT_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="BNO085">
+      <description>IMU ACCEL/GYRO/MAG I2C 32BIT</description>
+      <docs>https://www.hillcrestlabs.com/downloads/bno080-datasheet</docs>
+      <fields>
+        <field name="Reference">AC?</field>
+        <field name="Value">BNO085</field>
+        <field name="Footprint">BNO085</field>
+        <field name="Datasheet">https://www.hillcrestlabs.com/downloads/bno080-datasheet</field>
+        <field name="Description">IMU ACCEL/GYRO/MAG I2C 32BIT</field>
+        <field name="Height">1.18</field>
+        <field name="Manufacturer_Name">Hillcrest Laboratories, Inc.</field>
+        <field name="Manufacturer_Part_Number">BNO085</field>
+      </fields>
+      <pins>
+        <pin num="1" name="RESV_NC_1" type="passive"/>
+        <pin num="2" name="GND_1" type="passive"/>
+        <pin num="3" name="VDD" type="passive"/>
+        <pin num="4" name="BOOTN" type="passive"/>
+        <pin num="5" name="PS1" type="passive"/>
+        <pin num="6" name="PS0/WAKE" type="passive"/>
+        <pin num="7" name="RESV_NC_2" type="passive"/>
+        <pin num="8" name="RESV_NC_3" type="passive"/>
+        <pin num="9" name="CAP" type="passive"/>
+        <pin num="10" name="CLKSEL0" type="passive"/>
+        <pin num="11" name="NRST" type="passive"/>
+        <pin num="12" name="RESV_NC_4" type="passive"/>
+        <pin num="13" name="RESV_NC_5" type="passive"/>
+        <pin num="14" name="H_INTN" type="passive"/>
+        <pin num="15" name="ENV_SCL" type="passive"/>
+        <pin num="16" name="ENV_SDA" type="passive"/>
+        <pin num="17" name="SA0/H_MOSI" type="passive"/>
+        <pin num="18" name="H_CSN" type="passive"/>
+        <pin num="19" name="H_SCL/SCK/RX" type="passive"/>
+        <pin num="20" name="H_SDA/H_MISO/TX" type="passive"/>
+        <pin num="21" name="RESV_NC_6" type="passive"/>
+        <pin num="22" name="RESV_NC_7" type="passive"/>
+        <pin num="23" name="RESV_NC_8" type="passive"/>
+        <pin num="24" name="RESV_NC_9" type="passive"/>
+        <pin num="25" name="GND_2" type="passive"/>
+        <pin num="26" name="XOUT32/CLKSEL1" type="passive"/>
+        <pin num="27" name="XIN32" type="passive"/>
+        <pin num="28" name="VDDIO" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="CGGBPD.25.A">
+      <description>EVAL BOARD GPS/GLONASS/BEIDOU</description>
+      <docs>https://cdn.taoglas.com/datasheets/CGGBP.25.4.A.02.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">CGGBPD.25.A</field>
+        <field name="Footprint">CGGBPD25A</field>
+        <field name="Datasheet">https://cdn.taoglas.com/datasheets/CGGBP.25.4.A.02.pdf</field>
+        <field name="Description">EVAL BOARD GPS/GLONASS/BEIDOU</field>
+        <field name="Height">5.4</field>
+        <field name="Manufacturer_Name">Taoglas</field>
+        <field name="Manufacturer_Part_Number">CGGBPD.25.A</field>
+        <field name="Mouser Part Number">960-CGGBPD.25.A</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Taoglas/CGGBPD25A?qs=gQGbhTXPkfgXlaXTNwnwuA%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="FC-135_32.768KHz_7pF_+_-20ppm">
+      <description>Crystal SMD 32.768KHz 1.5x3.2mm Crystal 32.768kHz,  /-20ppm, 2-Pin SMD, 3.2 x 1.5 x 0.8mm</description>
+      <docs>http://www.farnell.com/datasheets/1678503.pdf</docs>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">FC-135_32.768KHz_7pF_+_-20ppm</field>
+        <field name="Footprint">FC-135</field>
+        <field name="Datasheet">http://www.farnell.com/datasheets/1678503.pdf</field>
+        <field name="Description">Crystal SMD 32.768KHz 1.5x3.2mm Crystal 32.768kHz,  /-20ppm, 2-Pin SMD, 3.2 x 1.5 x 0.8mm</field>
+        <field name="Manufacturer_Name">Epson Timing</field>
+        <field name="Manufacturer_Part_Number">FC-135 32.768KHz 7pF +/-20ppm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="MAX2641EUT+T">
+      <description>MAXIM INTEGRATED PRODUCTS - MAX2641EUT+T - RF Amplifier, 15.7 dB Gain / 1.5 dB Noise, 300 MHz to 1.5 GHz, 2.7 V to 5.5 V Supply, SOT-23-6</description>
+      <docs>https://datasheets.maximintegrated.com/en/ds/MAX2640-MAX2641.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">MAX2641EUT+T</field>
+        <field name="Footprint">SOT95P280X145-6N</field>
+        <field name="Datasheet">https://datasheets.maximintegrated.com/en/ds/MAX2640-MAX2641.pdf</field>
+        <field name="Description">MAXIM INTEGRATED PRODUCTS - MAX2641EUT+T - RF Amplifier, 15.7 dB Gain / 1.5 dB Noise, 300 MHz to 1.5 GHz, 2.7 V to 5.5 V Supply, SOT-23-6</field>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">Maxim Integrated</field>
+        <field name="Manufacturer_Part_Number">MAX2641EUT+T</field>
+        <field name="Mouser Part Number">700-MAX2641EUTT</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX2641EUT%2bT/?qs=1THa7WoU59H%252B6w0O8v3kqQ%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="RFIN" type="passive"/>
+        <pin num="2" name="GND_1" type="passive"/>
+        <pin num="3" name="GND_2" type="passive"/>
+        <pin num="4" name="RFOUT" type="passive"/>
+        <pin num="5" name="GND_3" type="passive"/>
+        <pin num="6" name="VCC" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="SAFEA1G58KA0F00R15">
+      <description>Signal Conditioning</description>
+      <docs>https://datasheet.lcsc.com/szlcsc/Murata-Electronics-SAFEA1G58KA0F00R15_C91641.pdf</docs>
+      <fields>
+        <field name="Reference">FL?</field>
+        <field name="Value">SAFEA1G58KA0F00R15</field>
+        <field name="Footprint">SAFEA1G58KA0F00R15</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/szlcsc/Murata-Electronics-SAFEA1G58KA0F00R15_C91641.pdf</field>
+        <field name="Description">Signal Conditioning</field>
+        <field name="Height">0.5</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">SAFEA1G58KA0F00R15</field>
+        <field name="Mouser Part Number">N/A</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Murata-Power-Solutions/SAFEA1G58KA0F00R15?qs=H5EaGE3Pc5kSHffIWWQS%252Bw%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="passive"/>
+        <pin num="2" name="GND_1" type="passive"/>
+        <pin num="3" name="GND_2" type="passive"/>
+        <pin num="4" name="OUT" type="passive"/>
+        <pin num="5" name="GND_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="SIT2001BI-S2-33E-12.000000D">
+      <description>OSC MEMS 12.0000MHZ H/LVCMOS SMD</description>
+      <docs>https://www.sitime.com/datasheet/SiT2001</docs>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">SIT2001BI-S2-33E-12.000000D</field>
+        <field name="Footprint">SOT95P280X145-5N</field>
+        <field name="Datasheet">https://www.sitime.com/datasheet/SiT2001</field>
+        <field name="Description">OSC MEMS 12.0000MHZ H/LVCMOS SMD</field>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">SiTime</field>
+        <field name="Manufacturer_Part_Number">SIT2001BI-S2-33E-12.000000D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="passive"/>
+        <pin num="2" name="NC" type="no_connect"/>
+        <pin num="3" name="OE/~{ST}/NC" type="passive"/>
+        <pin num="4" name="VDD" type="passive"/>
+        <pin num="5" name="OUT" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="SKRPACE010">
+      <description>Tactile Switches 4.2x3.2x2.5mm 260gf</description>
+      <docs>http://www.alps.com/prod/info/E/HTML/Tact/SurfaceMount/SKRP/SKRPACE010.html</docs>
+      <fields>
+        <field name="Reference">S</field>
+        <field name="Value">SKRPACE010</field>
+        <field name="Footprint">SMT(4.2X3.2)</field>
+        <field name="Datasheet">http://www.alps.com/prod/info/E/HTML/Tact/SurfaceMount/SKRP/SKRPACE010.html</field>
+        <field name="Description">Tactile Switches 4.2x3.2x2.5mm 260gf</field>
+        <field name="Manufacturer_Name">ALPS Electric</field>
+        <field name="Manufacturer_Part_Number">SKRPACE010</field>
+        <field name="Mouser Part Number">688-SKRPACE010</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Alps-Alpine/SKRPACE010?qs=dHDuPHwQO79W8iY66hDbLQ%3D%3D</field>
+        <field name="Arrow Part Number">SKRPACE010</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/skrpace010/alps-electric</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="TB67H450FNG,EL">
+      <description>Motor / Motion / Ignition Controllers &amp; Drivers Brushed Motor Driver IC, 50V, 3.5A, TSSOP8 Package, PB-FREE</description>
+      <docs>http://toshiba.semicon-storage.com/info/docget.jsp?did=65346&amp;prodName=TB67H450FNG</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">TB67H450FNG,EL</field>
+        <field name="Footprint">SOIC127P600X175-9N</field>
+        <field name="Datasheet">http://toshiba.semicon-storage.com/info/docget.jsp?did=65346&amp;prodName=TB67H450FNG</field>
+        <field name="Description">Motor / Motion / Ignition Controllers &amp; Drivers Brushed Motor Driver IC, 50V, 3.5A, TSSOP8 Package, PB-FREE</field>
+        <field name="Height">1.75</field>
+        <field name="Manufacturer_Name">Toshiba</field>
+        <field name="Manufacturer_Part_Number">TB67H450FNG,EL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="passive"/>
+        <pin num="2" name="IN2" type="passive"/>
+        <pin num="3" name="IN1" type="passive"/>
+        <pin num="4" name="VREF" type="passive"/>
+        <pin num="5" name="VM" type="passive"/>
+        <pin num="6" name="OUT1" type="passive"/>
+        <pin num="7" name="RS" type="passive"/>
+        <pin num="8" name="OUT2" type="passive"/>
+        <pin num="9" name="EP" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="TESEO-LIV3F">
+      <description>GPS Modules Tiny GNSS module</description>
+      <docs>https://www.st.com/resource/en/datasheet/teseo-liv3f.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">TESEO-LIV3F</field>
+        <field name="Footprint">SON110P970X1010X230-18N</field>
+        <field name="Datasheet">https://www.st.com/resource/en/datasheet/teseo-liv3f.pdf</field>
+        <field name="Description">GPS Modules Tiny GNSS module</field>
+        <field name="Height">2.3</field>
+        <field name="Manufacturer_Name">STMicroelectronics</field>
+        <field name="Manufacturer_Part_Number">TESEO-LIV3F</field>
+        <field name="Mouser Part Number">511-TESEO-LIV3F</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/STMicroelectronics/TESEO-LIV3F?qs=HXFqYaX1Q2wXp9tn7dEmMw%3D%3D</field>
+        <field name="Arrow Part Number">TESEO-LIV3F</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/teseo-liv3f/stmicroelectronics</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="passive"/>
+        <pin num="2" name="TX" type="passive"/>
+        <pin num="3" name="RX" type="passive"/>
+        <pin num="4" name="1PPS" type="passive"/>
+        <pin num="5" name="WAKE-UP" type="passive"/>
+        <pin num="6" name="VBATT" type="passive"/>
+        <pin num="7" name="VCC_IO" type="passive"/>
+        <pin num="8" name="VCC" type="passive"/>
+        <pin num="9" name="SYS_RSTN" type="passive"/>
+        <pin num="10" name="GND_RF_1" type="passive"/>
+        <pin num="11" name="RF_IN" type="passive"/>
+        <pin num="12" name="GND_RF_2" type="passive"/>
+        <pin num="13" name="ANT_OFF" type="passive"/>
+        <pin num="14" name="VCC_RF" type="passive"/>
+        <pin num="15" name="RESERVED_1" type="passive"/>
+        <pin num="16" name="SDA" type="passive"/>
+        <pin num="17" name="SCL" type="passive"/>
+        <pin num="18" name="RESERVED_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="W25Q128JVSIQ">
+      <description>NOR Flash spiFlash, 3V, 128M-bit, 4Kb Uniform Sector</description>
+      <docs>https://www.winbond.com/resource-files/w25q128jv%20revf%2003272018%20plus.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">W25Q128JVSIQ</field>
+        <field name="Footprint">SOIC127P790X216-8N</field>
+        <field name="Datasheet">https://www.winbond.com/resource-files/w25q128jv%20revf%2003272018%20plus.pdf</field>
+        <field name="Description">NOR Flash spiFlash, 3V, 128M-bit, 4Kb Uniform Sector</field>
+        <field name="Height">2.16</field>
+        <field name="Manufacturer_Name">Winbond</field>
+        <field name="Manufacturer_Part_Number">W25Q128JVSIQ</field>
+        <field name="Mouser Part Number">454-W25Q128JVSIQ</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Winbond/W25Q128JVSIQ?qs=qSfuJ%252Bfl%2Fd6tLXvPR4fl9w%3D%3D</field>
+        <field name="Arrow Part Number">W25Q128JVSIQ</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/w25q128jvsiq/winbond-electronics?region=nac</field>
+      </fields>
+      <pins>
+        <pin num="1" name="/CS" type="passive"/>
+        <pin num="2" name="DO_(IO1)" type="passive"/>
+        <pin num="3" name="/WP_(IO2)" type="passive"/>
+        <pin num="4" name="GND" type="passive"/>
+        <pin num="5" name="DI_(IO0)" type="passive"/>
+        <pin num="6" name="CLK" type="passive"/>
+        <pin num="7" name="/HOLD_OR_/RESET_(IO3)" type="passive"/>
+        <pin num="8" name="VCC" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_DIP_x01">
+      <description>1x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SW?DIP?x1*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">SW?</field>
+        <field name="Value">SW_DIP_x01</field>
+        <field name="Footprint">SamacSys_Parts:SSAJ120100</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="2" name="" type="passive"/>
+        <pin num="C1" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="tanekonsat" part="CR2032">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CR2032</field>
+      </fields>
+      <pins>
+        <pin num="1" name="minus" type="output"/>
+        <pin num="2" name="plus" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="tanekonsat" part="USB_type_C">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">USB_type_C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A1-B12_GND" type="input"/>
+        <pin num="2" name="A4-B9_VBUS" type="input"/>
+        <pin num="3" name="B8_SBU2" type="input"/>
+        <pin num="4" name="A5_CC1" type="input"/>
+        <pin num="5" name="B7_DN2" type="input"/>
+        <pin num="6" name="A6_DP1" type="input"/>
+        <pin num="7" name="A7_DN1" type="input"/>
+        <pin num="8" name="B6_DP2" type="input"/>
+        <pin num="9" name="A8_SBU1" type="input"/>
+        <pin num="10" name="B5_CC2" type="input"/>
+        <pin num="11" name="A9-B4_VBUS" type="input"/>
+        <pin num="12" name="A12-B1_GND" type="input"/>
+        <pin num="SHIELD" name="SHIELD" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="tanekonsat" part="VL53L5X_SL">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">VL53L5X_SL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="LPn" type="passive"/>
+        <pin num="2" name="SCL" type="passive"/>
+        <pin num="3" name="RST" type="passive"/>
+        <pin num="4" name="SDA" type="passive"/>
+        <pin num="5" name="VDD" type="passive"/>
+        <pin num="6" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Amplifier_Current">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Amplifier_Current.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Diode.kicad_sym</uri>
+    </library>
+    <library logical="Motor">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Motor.kicad_sym</uri>
+    </library>
+    <library logical="SamacSys_Parts">
+      <uri>D:/Documents/KiCad/Lib/SamacSys_Parts.lib</uri>
+    </library>
+    <library logical="Switch">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Switch.kicad_sym</uri>
+    </library>
+    <library logical="tanekonsat">
+      <uri>C:\Users\Akio\Desktop\Dev\DERC\tanekonsat2022_runback\kicad/lib/tanekonsat.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+1V1">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="23" pinfunction="DVDD" pintype="power_in"/>
+      <node ref="U1" pin="45" pinfunction="VREG_VOUT" pintype="power_out"/>
+      <node ref="U1" pin="50" pinfunction="DVDD" pintype="power_in"/>
+    </net>
+    <net code="2" name="+3V0">
+      <node ref="IC4" pin="6" pinfunction="VBATT" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="plus" pintype="output"/>
+    </net>
+    <net code="3" name="+3V3">
+      <node ref="AC1" pin="28" pinfunction="VDDIO" pintype="passive"/>
+      <node ref="AC1" pin="3" pinfunction="VDD" pintype="passive"/>
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="C33" pin="1" pintype="passive"/>
+      <node ref="C37" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="8" pinfunction="VCC" pintype="passive"/>
+      <node ref="IC4" pin="7" pinfunction="VCC_IO" pintype="passive"/>
+      <node ref="IC4" pin="8" pinfunction="VCC" pintype="passive"/>
+      <node ref="IC7" pin="4" pinfunction="VREF" pintype="passive"/>
+      <node ref="IC8" pin="4" pinfunction="VREF" pintype="passive"/>
+      <node ref="J10" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J5" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J6" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J7" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J9" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="IOVDD" pintype="power_in"/>
+      <node ref="U1" pin="10" pinfunction="IOVDD" pintype="power_in"/>
+      <node ref="U1" pin="22" pinfunction="IOVDD" pintype="power_in"/>
+      <node ref="U1" pin="33" pinfunction="IOVDD" pintype="power_in"/>
+      <node ref="U1" pin="42" pinfunction="IOVDD" pintype="power_in"/>
+      <node ref="U1" pin="43" pinfunction="ADC_AVDD" pintype="power_in"/>
+      <node ref="U1" pin="44" pinfunction="VREG_IN" pintype="power_in"/>
+      <node ref="U1" pin="48" pinfunction="USB_VDD" pintype="power_in"/>
+      <node ref="U1" pin="49" pinfunction="IOVDD" pintype="power_in"/>
+      <node ref="U3" pin="5" pinfunction="VDD" pintype="passive"/>
+      <node ref="U5" pin="4" pinfunction="+" pintype="input"/>
+      <node ref="U6" pin="8" pinfunction="V+" pintype="power_in"/>
+      <node ref="Y1" pin="4" pinfunction="VDD" pintype="passive"/>
+    </net>
+    <net code="4" name="/+7V4">
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="C26" pin="1" pintype="passive"/>
+      <node ref="C30" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="IC2" pin="3" pinfunction="IN" pintype="passive"/>
+      <node ref="IC7" pin="5" pinfunction="VM" pintype="passive"/>
+      <node ref="IC8" pin="5" pinfunction="VM" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="2" pintype="passive"/>
+    </net>
+    <net code="5" name="/3V3_REG_OUT">
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="IC2" pin="2" pinfunction="OUT_1" pintype="passive"/>
+      <node ref="IC2" pin="4" pinfunction="OUT_2" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="U5" pin="5" pinfunction="V+" pintype="power_in"/>
+    </net>
+    <net code="6" name="/GNSS_1PPS">
+      <node ref="IC4" pin="4" pinfunction="1PPS" pintype="passive"/>
+      <node ref="J9" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="7" name="/GPIO0">
+      <node ref="U1" pin="2" pinfunction="GPIO0" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="/GPIO1">
+      <node ref="U1" pin="3" pinfunction="GPIO1" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="/GPIO2_LED">
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="GPIO2" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="/GPIO3_ToF_RST">
+      <node ref="J10" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="GPIO3" pintype="bidirectional"/>
+      <node ref="U3" pin="3" pinfunction="RST" pintype="passive"/>
+    </net>
+    <net code="11" name="/GPIO4_GNSS_RX">
+      <node ref="IC4" pin="3" pinfunction="RX" pintype="passive"/>
+      <node ref="J7" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J9" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="GPIO4" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="/GPIO5_GNSS_TX">
+      <node ref="IC4" pin="2" pinfunction="TX" pintype="passive"/>
+      <node ref="J7" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J9" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="GPIO5" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="/GPIO6_ToF_SDA">
+      <node ref="J10" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="GPIO6" pintype="bidirectional"/>
+      <node ref="U3" pin="4" pinfunction="SDA" pintype="passive"/>
+    </net>
+    <net code="14" name="/GPIO7_ToF_SCL">
+      <node ref="J10" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="GPIO7" pintype="bidirectional"/>
+      <node ref="U3" pin="2" pinfunction="SCL" pintype="passive"/>
+    </net>
+    <net code="15" name="/GPIO8_I2C_EXT_SDA">
+      <node ref="J11" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="GPIO8" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="/GPIO9_I2C_EXT_SCL">
+      <node ref="J11" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="GPIO9" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="/GPIO10_MO_A_1">
+      <node ref="IC7" pin="3" pinfunction="IN1" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="GPIO10" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="/GPIO11_MO_A_2">
+      <node ref="IC7" pin="2" pinfunction="IN2" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="GPIO11" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="/GPIO12_IMU_MISO">
+      <node ref="AC1" pin="20" pinfunction="H_SDA/H_MISO/TX" pintype="passive"/>
+      <node ref="J12" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="GPIO12" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="/GPIO13_IMU_CS">
+      <node ref="AC1" pin="18" pinfunction="H_CSN" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="GPIO13" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="/GPIO14_IMU_SCK">
+      <node ref="AC1" pin="19" pinfunction="H_SCL/SCK/RX" pintype="passive"/>
+      <node ref="J12" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="17" pinfunction="GPIO14" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="/GPIO15_IMU_MOSI">
+      <node ref="AC1" pin="17" pinfunction="SA0/H_MOSI" pintype="passive"/>
+      <node ref="U1" pin="18" pinfunction="GPIO15" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="/GPIO16_IMU_INT">
+      <node ref="AC1" pin="14" pinfunction="H_INTN" pintype="passive"/>
+      <node ref="U1" pin="27" pinfunction="GPIO16" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="/GPIO17_IMU_RST">
+      <node ref="AC1" pin="11" pinfunction="NRST" pintype="passive"/>
+      <node ref="U1" pin="28" pinfunction="GPIO17" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="/GPIO18_MO_B_1">
+      <node ref="IC8" pin="3" pinfunction="IN1" pintype="passive"/>
+      <node ref="U1" pin="29" pinfunction="GPIO18" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="/GPIO19_MO_B_2">
+      <node ref="IC8" pin="2" pinfunction="IN2" pintype="passive"/>
+      <node ref="U1" pin="30" pinfunction="GPIO19" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="/GPIO20_MOE_A_1">
+      <node ref="J6" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="31" pinfunction="GPIO20" pintype="bidirectional"/>
+    </net>
+    <net code="28" name="/GPIO21_MOE_B_1">
+      <node ref="J5" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="32" pinfunction="GPIO21" pintype="bidirectional"/>
+    </net>
+    <net code="29" name="/GPIO22_MOE_A_2">
+      <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="34" pinfunction="GPIO22" pintype="bidirectional"/>
+    </net>
+    <net code="30" name="/GPIO23_MOE_B_2">
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="35" pinfunction="GPIO23" pintype="bidirectional"/>
+    </net>
+    <net code="31" name="/GPIO26_ADC_I_monitor">
+      <node ref="U1" pin="38" pinfunction="GPIO26_ADC0" pintype="bidirectional"/>
+      <node ref="U6" pin="1" pintype="output"/>
+      <node ref="U6" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="32" name="/GPIO27_ADC_V_monitor">
+      <node ref="U1" pin="39" pinfunction="GPIO27_ADC1" pintype="bidirectional"/>
+      <node ref="U6" pin="6" pinfunction="-" pintype="input"/>
+      <node ref="U6" pin="7" pintype="output"/>
+    </net>
+    <net code="33" name="/GPIO28_NichromeA">
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U1" pin="40" pinfunction="GPIO28_ADC2" pintype="bidirectional"/>
+    </net>
+    <net code="34" name="/GPIO29_NichromeB">
+      <node ref="R22" pin="1" pintype="passive"/>
+      <node ref="U1" pin="41" pinfunction="GPIO29_ADC3" pintype="bidirectional"/>
+    </net>
+    <net code="35" name="/M1_MINUS">
+      <node ref="IC7" pin="6" pinfunction="OUT1" pintype="passive"/>
+      <node ref="M1" pin="2" pinfunction="-" pintype="passive"/>
+    </net>
+    <net code="36" name="/M1_PLUS">
+      <node ref="IC7" pin="8" pinfunction="OUT2" pintype="passive"/>
+      <node ref="M1" pin="1" pinfunction="+" pintype="passive"/>
+    </net>
+    <net code="37" name="/M2_MINUS">
+      <node ref="IC8" pin="6" pinfunction="OUT1" pintype="passive"/>
+      <node ref="M2" pin="2" pinfunction="-" pintype="passive"/>
+    </net>
+    <net code="38" name="/M2_PLUS">
+      <node ref="IC8" pin="8" pinfunction="OUT2" pintype="passive"/>
+      <node ref="M2" pin="1" pinfunction="+" pintype="passive"/>
+    </net>
+    <net code="39" name="/QSPI_SCLK">
+      <node ref="IC1" pin="6" pinfunction="CLK" pintype="passive"/>
+      <node ref="U1" pin="52" pinfunction="QSPI_SCLK" pintype="output"/>
+    </net>
+    <net code="40" name="/QSPI_SD0">
+      <node ref="IC1" pin="5" pinfunction="DI_(IO0)" pintype="passive"/>
+      <node ref="U1" pin="53" pinfunction="QSPI_SD0" pintype="bidirectional"/>
+    </net>
+    <net code="41" name="/QSPI_SD1">
+      <node ref="IC1" pin="2" pinfunction="DO_(IO1)" pintype="passive"/>
+      <node ref="U1" pin="55" pinfunction="QSPI_SD1" pintype="bidirectional"/>
+    </net>
+    <net code="42" name="/QSPI_SD2">
+      <node ref="IC1" pin="3" pinfunction="/WP_(IO2)" pintype="passive"/>
+      <node ref="U1" pin="54" pinfunction="QSPI_SD2" pintype="bidirectional"/>
+    </net>
+    <net code="43" name="/QSPI_SD3">
+      <node ref="IC1" pin="7" pinfunction="/HOLD_OR_/RESET_(IO3)" pintype="passive"/>
+      <node ref="U1" pin="51" pinfunction="QSPI_SD3" pintype="bidirectional"/>
+    </net>
+    <net code="44" name="/QSPI_SS">
+      <node ref="IC1" pin="1" pinfunction="/CS" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U1" pin="56" pinfunction="QSPI_SS" pintype="bidirectional"/>
+    </net>
+    <net code="45" name="/RUN">
+      <node ref="S2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="S2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="26" pinfunction="RUN" pintype="input"/>
+    </net>
+    <net code="46" name="/SWCLK">
+      <node ref="U1" pin="24" pinfunction="SWCLK" pintype="output"/>
+    </net>
+    <net code="47" name="/SWD">
+      <node ref="U1" pin="25" pinfunction="SWD" pintype="bidirectional"/>
+    </net>
+    <net code="48" name="/USB_D+">
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U4" pin="6" pinfunction="A6_DP1" pintype="input"/>
+      <node ref="U4" pin="8" pinfunction="B6_DP2" pintype="input"/>
+    </net>
+    <net code="49" name="/USB_D-">
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U4" pin="5" pinfunction="B7_DN2" pintype="input"/>
+      <node ref="U4" pin="7" pinfunction="A7_DN1" pintype="input"/>
+    </net>
+    <net code="50" name="/VBUS">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U4" pin="11" pinfunction="A9-B4_VBUS" pintype="input"/>
+      <node ref="U4" pin="2" pinfunction="A4-B9_VBUS" pintype="input"/>
+    </net>
+    <net code="51" name="/VCC_RF">
+      <node ref="C29" pin="1" pintype="passive"/>
+      <node ref="IC4" pin="14" pinfunction="VCC_RF" pintype="passive"/>
+      <node ref="IC6" pin="6" pinfunction="VCC" pintype="passive"/>
+    </net>
+    <net code="52" name="/XIN">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="XIN" pintype="input"/>
+      <node ref="Y1" pin="5" pinfunction="OUT" pintype="passive"/>
+    </net>
+    <net code="53" name="/XOUT">
+      <node ref="U1" pin="21" pinfunction="XOUT" pintype="passive"/>
+    </net>
+    <net code="54" name="/~{USB_BOOT}">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="S1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="S1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="55" name="GND">
+      <node ref="AC1" pin="10" pinfunction="CLKSEL0" pintype="passive"/>
+      <node ref="AC1" pin="2" pinfunction="GND_1" pintype="passive"/>
+      <node ref="AC1" pin="25" pinfunction="GND_2" pintype="passive"/>
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="C26" pin="2" pintype="passive"/>
+      <node ref="C29" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C30" pin="2" pintype="passive"/>
+      <node ref="C33" pin="2" pintype="passive"/>
+      <node ref="C34" pin="1" pintype="passive"/>
+      <node ref="C35" pin="2" pintype="passive"/>
+      <node ref="C36" pin="2" pintype="passive"/>
+      <node ref="C37" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="FL1" pin="2" pinfunction="GND_1" pintype="passive"/>
+      <node ref="FL1" pin="3" pinfunction="GND_2" pintype="passive"/>
+      <node ref="FL1" pin="5" pinfunction="GND_3" pintype="passive"/>
+      <node ref="IC1" pin="4" pinfunction="GND" pintype="passive"/>
+      <node ref="IC2" pin="1" pinfunction="GND" pintype="passive"/>
+      <node ref="IC4" pin="1" pinfunction="GND" pintype="passive"/>
+      <node ref="IC4" pin="10" pinfunction="GND_RF_1" pintype="passive"/>
+      <node ref="IC4" pin="12" pinfunction="GND_RF_2" pintype="passive"/>
+      <node ref="IC6" pin="2" pinfunction="GND_1" pintype="passive"/>
+      <node ref="IC6" pin="3" pinfunction="GND_2" pintype="passive"/>
+      <node ref="IC6" pin="5" pinfunction="GND_3" pintype="passive"/>
+      <node ref="IC7" pin="1" pinfunction="GND" pintype="passive"/>
+      <node ref="IC8" pin="1" pinfunction="GND" pintype="passive"/>
+      <node ref="J10" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J9" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="L2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="Q2" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="Q7" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="R23" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="S1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="S1" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="S2" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="S2" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="U1" pin="19" pinfunction="TESTEN" pintype="passive"/>
+      <node ref="U1" pin="57" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="1" pinfunction="minus" pintype="output"/>
+      <node ref="U3" pin="6" pinfunction="GND" pintype="passive"/>
+      <node ref="U4" pin="1" pinfunction="A1-B12_GND" pintype="input"/>
+      <node ref="U4" pin="12" pinfunction="A12-B1_GND" pintype="input"/>
+      <node ref="U4" pin="SHIELD" pinfunction="SHIELD" pintype="input"/>
+      <node ref="U5" pin="2" pinfunction="V-" pintype="power_in"/>
+      <node ref="U6" pin="4" pinfunction="V-" pintype="power_in"/>
+      <node ref="Y1" pin="1" pinfunction="GND" pintype="passive"/>
+    </net>
+    <net code="56" name="GND1">
+      <node ref="J1" pin="3" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(AC1-Pad4)">
+      <node ref="AC1" pin="4" pinfunction="BOOTN" pintype="passive"/>
+      <node ref="AC1" pin="5" pinfunction="PS1" pintype="passive"/>
+      <node ref="AC1" pin="6" pinfunction="PS0/WAKE" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+    </net>
+    <net code="58" name="Net-(AC1-Pad9)">
+      <node ref="AC1" pin="9" pinfunction="CAP" pintype="passive"/>
+      <node ref="C34" pin="2" pintype="passive"/>
+    </net>
+    <net code="59" name="Net-(AC1-Pad26)">
+      <node ref="AC1" pin="26" pinfunction="XOUT32/CLKSEL1" pintype="passive"/>
+      <node ref="C35" pin="1" pintype="passive"/>
+      <node ref="Y2" pin="1" pintype="passive"/>
+    </net>
+    <net code="60" name="Net-(AC1-Pad27)">
+      <node ref="AC1" pin="27" pinfunction="XIN32" pintype="passive"/>
+      <node ref="C36" pin="1" pintype="passive"/>
+      <node ref="Y2" pin="2" pintype="passive"/>
+    </net>
+    <net code="61" name="Net-(C24-Pad1)">
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="C25" pin="1" pintype="passive"/>
+      <node ref="IC5" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="62" name="Net-(C25-Pad2)">
+      <node ref="C25" pin="2" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="63" name="Net-(C27-Pad1)">
+      <node ref="C27" pin="1" pintype="passive"/>
+      <node ref="FL1" pin="4" pinfunction="OUT" pintype="passive"/>
+    </net>
+    <net code="64" name="Net-(C27-Pad2)">
+      <node ref="C27" pin="2" pintype="passive"/>
+      <node ref="IC4" pin="11" pinfunction="RF_IN" pintype="passive"/>
+    </net>
+    <net code="65" name="Net-(C28-Pad1)">
+      <node ref="C28" pin="1" pintype="passive"/>
+      <node ref="IC6" pin="4" pinfunction="RFOUT" pintype="passive"/>
+    </net>
+    <net code="66" name="Net-(C28-Pad2)">
+      <node ref="C28" pin="2" pintype="passive"/>
+      <node ref="FL1" pin="1" pinfunction="IN" pintype="passive"/>
+      <node ref="L2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="67" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="68" name="Net-(IC4-Pad16)">
+      <node ref="IC4" pin="16" pinfunction="SDA" pintype="passive"/>
+      <node ref="J8" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="69" name="Net-(IC4-Pad17)">
+      <node ref="IC4" pin="17" pinfunction="SCL" pintype="passive"/>
+      <node ref="J8" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="70" name="Net-(IC6-Pad1)">
+      <node ref="IC6" pin="1" pinfunction="RFIN" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="71" name="Net-(IC7-Pad7)">
+      <node ref="IC7" pin="7" pinfunction="RS" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+    </net>
+    <net code="72" name="Net-(IC8-Pad7)">
+      <node ref="IC8" pin="7" pinfunction="RS" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+    </net>
+    <net code="73" name="Net-(J3-Pad2)">
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="74" name="Net-(J4-Pad2)">
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="Q7" pin="3" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="75" name="Net-(Q1-Pad1)">
+      <node ref="Q1" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="76" name="Net-(Q2-Pad1)">
+      <node ref="Q2" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="77" name="Net-(Q7-Pad1)">
+      <node ref="Q7" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+      <node ref="R23" pin="1" pintype="passive"/>
+    </net>
+    <net code="78" name="Net-(R1-Pad1)">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="C1" pintype="passive"/>
+    </net>
+    <net code="79" name="Net-(R5-Pad2)">
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U1" pin="47" pinfunction="USB_DP" pintype="bidirectional"/>
+    </net>
+    <net code="80" name="Net-(R6-Pad2)">
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U1" pin="46" pinfunction="USB_DM" pintype="bidirectional"/>
+    </net>
+    <net code="81" name="Net-(R12-Pad2)">
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="U5" pin="3" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="82" name="Net-(R13-Pad1)">
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="U5" pin="1" pintype="open_collector"/>
+      <node ref="U6" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="83" name="Net-(R14-Pad1)">
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="U6" pin="5" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="84" name="Net-(R16-Pad1)">
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="U4" pin="10" pinfunction="B5_CC2" pintype="input"/>
+    </net>
+    <net code="85" name="Net-(R17-Pad1)">
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="U4" pin="4" pinfunction="A5_CC1" pintype="input"/>
+    </net>
+    <net code="86" name="unconnected-(AC1-Pad1)">
+      <node ref="AC1" pin="1" pinfunction="RESV_NC_1" pintype="passive"/>
+    </net>
+    <net code="87" name="unconnected-(AC1-Pad7)">
+      <node ref="AC1" pin="7" pinfunction="RESV_NC_2" pintype="passive"/>
+    </net>
+    <net code="88" name="unconnected-(AC1-Pad8)">
+      <node ref="AC1" pin="8" pinfunction="RESV_NC_3" pintype="passive"/>
+    </net>
+    <net code="89" name="unconnected-(AC1-Pad12)">
+      <node ref="AC1" pin="12" pinfunction="RESV_NC_4" pintype="passive"/>
+    </net>
+    <net code="90" name="unconnected-(AC1-Pad13)">
+      <node ref="AC1" pin="13" pinfunction="RESV_NC_5" pintype="passive"/>
+    </net>
+    <net code="91" name="unconnected-(AC1-Pad15)">
+      <node ref="AC1" pin="15" pinfunction="ENV_SCL" pintype="passive"/>
+    </net>
+    <net code="92" name="unconnected-(AC1-Pad16)">
+      <node ref="AC1" pin="16" pinfunction="ENV_SDA" pintype="passive"/>
+    </net>
+    <net code="93" name="unconnected-(AC1-Pad21)">
+      <node ref="AC1" pin="21" pinfunction="RESV_NC_6" pintype="passive"/>
+    </net>
+    <net code="94" name="unconnected-(AC1-Pad22)">
+      <node ref="AC1" pin="22" pinfunction="RESV_NC_7" pintype="passive"/>
+    </net>
+    <net code="95" name="unconnected-(AC1-Pad23)">
+      <node ref="AC1" pin="23" pinfunction="RESV_NC_8" pintype="passive"/>
+    </net>
+    <net code="96" name="unconnected-(AC1-Pad24)">
+      <node ref="AC1" pin="24" pinfunction="RESV_NC_9" pintype="passive"/>
+    </net>
+    <net code="97" name="unconnected-(IC4-Pad5)">
+      <node ref="IC4" pin="5" pinfunction="WAKE-UP" pintype="passive"/>
+    </net>
+    <net code="98" name="unconnected-(IC4-Pad9)">
+      <node ref="IC4" pin="9" pinfunction="SYS_RSTN" pintype="passive"/>
+    </net>
+    <net code="99" name="unconnected-(IC4-Pad13)">
+      <node ref="IC4" pin="13" pinfunction="ANT_OFF" pintype="passive"/>
+    </net>
+    <net code="100" name="unconnected-(IC4-Pad15)">
+      <node ref="IC4" pin="15" pinfunction="RESERVED_1" pintype="passive"/>
+    </net>
+    <net code="101" name="unconnected-(IC4-Pad18)">
+      <node ref="IC4" pin="18" pinfunction="RESERVED_2" pintype="passive"/>
+    </net>
+    <net code="102" name="unconnected-(IC7-Pad9)">
+      <node ref="IC7" pin="9" pinfunction="EP" pintype="passive"/>
+    </net>
+    <net code="103" name="unconnected-(IC8-Pad9)">
+      <node ref="IC8" pin="9" pinfunction="EP" pintype="passive"/>
+    </net>
+    <net code="104" name="unconnected-(U1-Pad36)">
+      <node ref="U1" pin="36" pinfunction="GPIO24" pintype="bidirectional"/>
+    </net>
+    <net code="105" name="unconnected-(U1-Pad37)">
+      <node ref="U1" pin="37" pinfunction="GPIO25" pintype="bidirectional"/>
+    </net>
+    <net code="106" name="unconnected-(U3-Pad1)">
+      <node ref="U3" pin="1" pinfunction="LPn" pintype="passive"/>
+    </net>
+    <net code="107" name="unconnected-(U4-Pad3)">
+      <node ref="U4" pin="3" pinfunction="B8_SBU2" pintype="input"/>
+    </net>
+    <net code="108" name="unconnected-(U4-Pad9)">
+      <node ref="U4" pin="9" pinfunction="A8_SBU1" pintype="input"/>
+    </net>
+    <net code="109" name="unconnected-(Y1-Pad2)">
+      <node ref="Y1" pin="2" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="110" name="unconnected-(Y1-Pad3)">
+      <node ref="Y1" pin="3" pinfunction="OE/~{ST}/NC" pintype="passive"/>
+    </net>
+  </nets>
+</export>

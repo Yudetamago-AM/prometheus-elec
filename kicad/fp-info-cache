@@ -1,4 +1,4 @@
-20233937804658752
+20238928871877522
 AkioLib
 5.5_radial_cap
 
@@ -78799,12 +78799,26 @@ Integrated Circuit
 8
 8
 SamacSys_Parts
+SOIC127P790X216-8N
+W25Q128JVSIQ
+Integrated Circuit
+0
+8
+8
+SamacSys_Parts
 SOT-89-3
 SOT-89-3
 Integrated Circuit
 0
 4
 4
+SamacSys_Parts
+SOT95P237X112-3N
+Micro3 (SOT23)
+Transistor
+0
+3
+3
 SamacSys_Parts
 SOT95P280X145-5N
 2.90 x 2.80 mm SOT23-5_1
@@ -85973,3 +85987,10 @@ Through hole pin header THT 1x06 2.00mm single row
 0
 6
 6
+tanekonsat
+USB_typeC_t
+
+
+0
+16
+13
