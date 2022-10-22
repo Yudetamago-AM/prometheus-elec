@@ -91,11 +91,19 @@
       )
     )
   )
+<<<<<<< Updated upstream
   (symbol "USB_type_C" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 0 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "USB_type_C" (id 1) (at 0 0 0)
+=======
+  (symbol "NJL5901AR" (in_bom yes) (on_board yes)
+    (property "Reference" "U" (id 0) (at -3.81 0 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "NJL5901AR" (id 1) (at 0 -2.54 0)
+>>>>>>> Stashed changes
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (id 2) (at 0 0 0)
@@ -104,6 +112,7 @@
     (property "Datasheet" "" (id 3) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< Updated upstream
     (symbol "USB_type_C_0_1"
       (rectangle (start 13.97 33.02) (end -2.54 0)
         (stroke (width 0) (type default) (color 0 0 0 0))
@@ -162,6 +171,99 @@
       (pin input line (at 0 -2.54 90) (length 2.54)
         (name "SHIELD" (effects (font (size 1.27 1.27))))
         (number "SHIELD" (effects (font (size 1.27 1.27))))
+=======
+    (symbol "NJL5901AR_0_1"
+      (polyline
+        (pts
+          (xy 3.81 5.08)
+          (xy 1.27 3.81)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 3.81 6.35)
+          (xy 1.27 7.62)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 3.81 7.62)
+          (xy 3.81 3.81)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 6.35 7.62)
+          (xy 8.89 7.62)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 7.62 5.08)
+          (xy 5.08 5.08)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 6.35 7.62)
+          (xy 6.35 3.81)
+          (xy 8.89 3.81)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 1.27 3.81)
+          (xy 2.54 3.81)
+          (xy 2.54 5.08)
+          (xy 1.27 3.81)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 5.08 6.35)
+          (xy 7.62 6.35)
+          (xy 6.35 5.08)
+          (xy 5.08 6.35)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (rectangle (start 1.27 8.89) (end 8.89 2.54)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+    )
+    (symbol "NJL5901AR_1_1"
+      (pin input line (at -1.27 3.81 0) (length 2.54)
+        (name "" (effects (font (size 1.27 1.27))))
+        (number "1" (effects (font (size 1.27 1.27))))
+      )
+      (pin input line (at 11.43 3.81 180) (length 2.54)
+        (name "" (effects (font (size 1.27 1.27))))
+        (number "2" (effects (font (size 1.27 1.27))))
+      )
+      (pin input line (at 11.43 7.62 180) (length 2.54)
+        (name "" (effects (font (size 1.27 1.27))))
+        (number "3" (effects (font (size 1.27 1.27))))
+      )
+      (pin input line (at -1.27 7.62 0) (length 2.54)
+        (name "" (effects (font (size 1.27 1.27))))
+        (number "4" (effects (font (size 1.27 1.27))))
+>>>>>>> Stashed changes
       )
     )
   )
