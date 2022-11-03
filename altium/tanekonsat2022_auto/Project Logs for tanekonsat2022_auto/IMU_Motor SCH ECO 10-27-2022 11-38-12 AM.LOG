@@ -1,0 +1,6 @@
+Remove Pin=U1-2 From Net=VBUS
+Remove Pin=U1-5 From Net=USB_D_N
+Remove Pin=U1-6 From Net=USB_D_P
+Remove Pin=U1-7 From Net=USB_D_N
+Remove Pin=U1-8 From Net=USB_D_P
+Remove Pin=U1-11 From Net=VBUS
