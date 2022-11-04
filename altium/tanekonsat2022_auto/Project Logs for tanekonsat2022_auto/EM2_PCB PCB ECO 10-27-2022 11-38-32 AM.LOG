@@ -1,0 +1,6 @@
+Added Component: Designator=U1(USB_C_5077CR-16SMC2-BK-TR)
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-4
+Added Pin To Net: NetName=NetR3_1 Pin=U1-10
+Added Pin To Net: NetName=GND Pin=U1-12
+Added Member To Class: ClassName=RP2040_Conn Member=Component U1 USB_C_5077CR-16SMC2-BK-TR
