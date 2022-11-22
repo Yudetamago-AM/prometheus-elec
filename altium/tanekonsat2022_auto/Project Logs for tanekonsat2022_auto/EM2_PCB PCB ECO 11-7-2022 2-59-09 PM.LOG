@@ -1,0 +1,70 @@
+Change Designator: Unknown Component : C11
+Change Designator: Unknown Component : C12
+Change Component Designator: OldDesignator=IC5 NewDesignator=IC6
+Change Component Designator: OldDesignator=U3 NewDesignator=U2
+Change Component Library : Designator=AC1 Old Library=* New Library=SamacSys.IntLib
+Change Component Library : Designator=IC1 Old Library=* New Library=SamacSys.IntLib
+Change Component Library : Designator=IC2 Old Library=* New Library=SamacSys.IntLib
+Change Component Library : Designator=IC3 Old Library=* New Library=SamacSys.IntLib
+Change Component Library : Designator=IC4 Old Library=* New Library=SamacSys.IntLib
+Change Component Library : Designator=IC6 Old Library=* New Library=SamacSys.IntLib
+Change Component Library : Designator=Q1 Old Library=* New Library=SamacSys.IntLib
+Change Component Library : Designator=Q2 Old Library=* New Library=SamacSys.IntLib
+Change Component Library : Designator=Q3 Old Library=* New Library=SamacSys.IntLib
+Change Component Library : Designator=Q4 Old Library=* New Library=SamacSys.IntLib
+Change Component Library : Designator=S1 Old Library=* New Library=SamacSys.IntLib
+Change Component Library : Designator=S2 Old Library=* New Library=SamacSys.IntLib
+Change Component Library : Designator=Y1 Old Library=* New Library=SamacSys.IntLib
+Change component parameters: Component "C1" not found
+Change component parameters: Component "C2" not found
+Change component parameters: Component "C3" not found
+Change component parameters: Component "C4" not found
+Change component parameters: Component "C5" not found
+Change component parameters: Component "C6" not found
+Change component parameters: Component "C7" not found
+Change component parameters: Component "C8" not found
+Change component parameters: Component "C9" not found
+Change component parameters: Component "C10" not found
+Change component parameters: Component "C11" not found
+Change component parameters: Component "C12" not found
+Change component parameters: Component "C13" not found
+Change component parameters: Component "C14" not found
+Change component parameters: Component "C15" not found
+Change component parameters: Component "C16" not found
+Change component parameters: Component "C17" not found
+Change component parameters: Component "C18" not found
+Change component parameters: Component "C19" not found
+Change component parameters: Component "C20" not found
+Change component parameters: Component "C21" not found
+Change component parameters: Component "C22" not found
+Change component parameters: Component "C23" not found
+Change component parameters: Component "C24" not found
+Change component parameters: Component "C25" not found
+Change component parameters: Component "R1" not found
+Change component parameters: Component "R2" not found
+Change component parameters: Component "R3" not found
+Change component parameters: Component "R4" not found
+Change component parameters: Component "R8" not found
+Change component parameters: Component "R9" not found
+Change component parameters: Component "R10" not found
+Change component parameters: Component "R11" not found
+Change component parameters: Component "R12" not found
+Change component parameters: Component "R13" not found
+Change component parameters: Component "R14" not found
+Change component parameters: Component "R15" not found
+Change component parameters: Component "R16" not found
+Change component parameters: Component "R19" not found
+Change component parameters: Component "R20" not found
+Change component parameters: Component "R22" not found
+Change component parameters: Component "R23" not found
+Change component parameters: Component "R24" not found
+Change component parameters: Component "R25" not found
+Added Component: Designator=IC5(NJM2884-U1-33)
+Added Pin To Net: NetName=+7V4 Pin=IC5-1
+Added Pin To Net: NetName=GND Pin=IC5-2
+Added Pin To Net: NetName=+3V3 Pin=IC5-4
+Added Pin To Net: NetName=+7V4 Pin=IC5-5
+Added Pin To Net: NetName=BAT_IN Pin=S3-MP1
+Added Pin To Net: NetName=NetR15_1 Pin=S3-MP2
+Change Net Name : Old Net Name=NetIC5_1 New Net Name=NetIC6_1
+Added Member To Class: ClassName=Power_Nichrome Member=Component IC6 S-89431ACMC-HBVT2U

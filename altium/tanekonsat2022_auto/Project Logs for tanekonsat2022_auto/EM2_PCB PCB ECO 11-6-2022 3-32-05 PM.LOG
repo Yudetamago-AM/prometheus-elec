@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=U2-1
+Removed Pin From Net: NetName=+3V3 Pin=U2-2
+Removed Pin From Net: NetName=+7V4 Pin=U2-3
+Removed Member From Class: ClassName=Power_Nichrome Member=U2
+Add Component: Footprint Not Found SOT89-5-1
+Add Pin To Net: Unknown Pin: Pin IC6-1
+Add Pin To Net: Unknown Pin: Pin IC6-2
+Add Pin To Net: Unknown Pin: Pin IC6-4
+Add Pin To Net: Unknown Pin: Pin IC6-5
+Add Class Member: Failed to add class member : Component IC6 NJM2884-U1-33

@@ -1,0 +1,59 @@
+Added Component: Designator=IC6(NJM2884-U1-33)
+Added Pin To Net: NetName=+7V4 Pin=IC6-1
+Added Pin To Net: NetName=GND Pin=IC6-2
+Added Pin To Net: NetName=+3V3 Pin=IC6-4
+Added Pin To Net: NetName=+7V4 Pin=IC6-5
+Added Pin To Net: NetName=NetR15_1 Pin=S3-1
+Added Pin To Net: NetName=BAT_IN Pin=S3-C1
+Added Member To Class: ClassName=RP2040_Conn Member=Component C1 Capacitor
+Added Member To Class: ClassName=RP2040_Conn Member=Component C2 Capacitor
+Added Member To Class: ClassName=RP2040_Conn Member=Component C3 Capacitor
+Added Member To Class: ClassName=RP2040_Conn Member=Component C4 Capacitor
+Added Member To Class: ClassName=RP2040_Conn Member=Component C5 Capacitor
+Added Member To Class: ClassName=RP2040_Conn Member=Component C6 Capacitor
+Added Member To Class: ClassName=RP2040_Conn Member=Component C7 Capacitor
+Added Member To Class: ClassName=RP2040_Conn Member=Component C8 Capacitor
+Added Member To Class: ClassName=RP2040_Conn Member=Component C9 Capacitor
+Added Member To Class: ClassName=RP2040_Conn Member=Component C10 Capacitor
+Added Member To Class: ClassName=RP2040_Conn Member=Component C11 Capacitor
+Added Member To Class: ClassName=RP2040_Conn Member=Component C12 Capacitor
+Added Member To Class: ClassName=IMU_Motor Member=Component C13 Capacitor
+Added Member To Class: ClassName=IMU_Motor Member=Component C14 Capacitor
+Added Member To Class: ClassName=IMU_Motor Member=Component C15 Capacitor
+Added Member To Class: ClassName=IMU_Motor Member=Component C16 Capacitor
+Added Member To Class: ClassName=IMU_Motor Member=Component C17 Capacitor
+Added Member To Class: ClassName=Power_Nichrome Member=Component C18 Capacitor
+Added Member To Class: ClassName=Power_Nichrome Member=Component C19 Capacitor
+Added Member To Class: ClassName=Power_Nichrome Member=Component C20 Capacitor
+Added Member To Class: ClassName=Power_Nichrome Member=Component C21 Capacitor
+Added Member To Class: ClassName=Power_Nichrome Member=Component C22 Capacitor
+Added Member To Class: ClassName=Power_Nichrome Member=Component C23 Capacitor
+Added Member To Class: ClassName=Power_Nichrome Member=Component C24 Capacitor
+Added Member To Class: ClassName=Power_Nichrome Member=Component C25 Capacitor
+Added Member To Class: ClassName=Power_Nichrome Member=Component IC5 S-89431ACMC-HBVT2U
+Added Member To Class: ClassName=Power_Nichrome Member=Component IC6 NJM2884-U1-33
+Added Member To Class: ClassName=RP2040_Conn Member=Component R1 Resistor
+Added Member To Class: ClassName=RP2040_Conn Member=Component R2 Resistor
+Added Member To Class: ClassName=RP2040_Conn Member=Component R3 Resistor
+Added Member To Class: ClassName=RP2040_Conn Member=Component R4 Resistor
+Added Member To Class: ClassName=RP2040_Conn Member=Component R5 Resistor
+Added Member To Class: ClassName=RP2040_Conn Member=Component R6 Resistor
+Added Member To Class: ClassName=RP2040_Conn Member=Component R7 Resistor
+Added Member To Class: ClassName=IMU_Motor Member=Component R8 Resistor
+Added Member To Class: ClassName=IMU_Motor Member=Component R9 Resistor
+Added Member To Class: ClassName=IMU_Motor Member=Component R10 Resistor
+Added Member To Class: ClassName=IMU_Motor Member=Component R11 Resistor
+Added Member To Class: ClassName=IMU_Motor Member=Component R12 Resistor
+Added Member To Class: ClassName=Power_Nichrome Member=Component R13 Resistor
+Added Member To Class: ClassName=Power_Nichrome Member=Component R14 Resistor
+Added Member To Class: ClassName=Power_Nichrome Member=Component R15 Resistor
+Added Member To Class: ClassName=Power_Nichrome Member=Component R16 Resistor
+Added Member To Class: ClassName=Power_Nichrome Member=Component R17 Resistor
+Added Member To Class: ClassName=Power_Nichrome Member=Component R19 Resistor
+Added Member To Class: ClassName=Power_Nichrome Member=Component R20 Resistor
+Added Member To Class: ClassName=Power_Nichrome Member=Component R21 Resistor
+Added Member To Class: ClassName=Power_Nichrome Member=Component R22 Resistor
+Added Member To Class: ClassName=Power_Nichrome Member=Component R23 Resistor
+Added Member To Class: ClassName=Power_Nichrome Member=Component R24 Resistor
+Added Member To Class: ClassName=Power_Nichrome Member=Component R25 Resistor
+Added Member To Class: ClassName=Power_Nichrome Member=Component U3 LT6106HS5#TRMPBF
