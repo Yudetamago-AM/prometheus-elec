@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>C:\Users\Akio\Desktop\Dev\DERC\tanekonsat2022_runback\kicad2\prometheus-em\prometheus-em.kicad_sch</source>
-    <date>2022/11/23 23:55:22</date>
+    <source>A:\Desktop\Doshisha\DERC\tanekonsat2022_runback\kicad2\prometheus-em\prometheus-em.kicad_sch</source>
+    <date>12/6/2022 12:47:23 AM</date>
     <tool>Eeschema (6.0.4)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -26,9 +26,12 @@
   <components>
     <comp ref="C1">
       <value>100n</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C307331</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C307331"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prometheus-em.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -36,9 +39,12 @@
     </comp>
     <comp ref="C2">
       <value>100n</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C307331</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C307331"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prometheus-em.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -656,7 +662,7 @@
     </comp>
     <comp ref="J1">
       <value>MOE_A</value>
-      <footprint>tanekonsat:PinHeader_1x04_P2.00mm_Vertical</footprint>
+      <footprint>Connector_PinHeader_2.00mm:PinHeader_1x04_P2.00mm_Vertical</footprint>
       <libsource lib="Connector" part="Conn_01x04_Male" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prometheus-em.kicad_sch"/>
@@ -665,7 +671,7 @@
     </comp>
     <comp ref="J2">
       <value>GNSS</value>
-      <footprint>tanekonsat:PinHeader_1x04_P2.00mm_Vertical</footprint>
+      <footprint>Connector_JST_ZH:JST_ZH_B4B-ZR_1x04_P1.50mm_Vertical</footprint>
       <libsource lib="Connector" part="Conn_01x04_Male" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prometheus-em.kicad_sch"/>
@@ -674,7 +680,7 @@
     </comp>
     <comp ref="J3">
       <value>MOE_B</value>
-      <footprint>tanekonsat:PinHeader_1x04_P2.00mm_Vertical</footprint>
+      <footprint>Connector_PinHeader_2.00mm:PinHeader_1x04_P2.00mm_Vertical</footprint>
       <libsource lib="Connector" part="Conn_01x04_Male" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prometheus-em.kicad_sch"/>
@@ -683,7 +689,7 @@
     </comp>
     <comp ref="J4">
       <value>ToF</value>
-      <footprint>tanekonsat:PinHeader_1x05_P2.00mm_Vertical</footprint>
+      <footprint>Connector_JST_ZH:JST_ZH_B5B-ZR_1x05_P1.50mm_Vertical</footprint>
       <libsource lib="Connector" part="Conn_01x05_Male" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prometheus-em.kicad_sch"/>
@@ -692,7 +698,7 @@
     </comp>
     <comp ref="J5">
       <value>Motor1</value>
-      <footprint>tanekonsat:PinHeader_1x02_P2.00mm_Vertical</footprint>
+      <footprint>Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical</footprint>
       <libsource lib="Connector" part="Conn_01x02_Male" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prometheus-em.kicad_sch"/>
@@ -701,7 +707,7 @@
     </comp>
     <comp ref="J6">
       <value>Motor2</value>
-      <footprint>tanekonsat:PinHeader_1x02_P2.00mm_Vertical</footprint>
+      <footprint>Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical</footprint>
       <libsource lib="Connector" part="Conn_01x02_Male" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prometheus-em.kicad_sch"/>
@@ -719,7 +725,7 @@
     </comp>
     <comp ref="J8">
       <value>Nichrome</value>
-      <footprint>tanekonsat:PinHeader_1x02_P2.00mm_Vertical</footprint>
+      <footprint>Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical</footprint>
       <libsource lib="Connector" part="Conn_01x02_Male" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prometheus-em.kicad_sch"/>
@@ -928,8 +934,8 @@
       <tstamps>7623e50f-0b67-4d87-aa51-94e9e0b9a57f</tstamps>
     </comp>
     <comp ref="R10">
-      <value>R</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <value>1</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prometheus-em.kicad_sch"/>
@@ -937,8 +943,8 @@
       <tstamps>71a72575-8727-411f-a88e-a4683852ba86</tstamps>
     </comp>
     <comp ref="R11">
-      <value>R</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <value>1</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prometheus-em.kicad_sch"/>
@@ -959,8 +965,8 @@
       <tstamps>faa3e633-db4d-4d84-9bcd-0f6c7eb6ba70</tstamps>
     </comp>
     <comp ref="R13">
-      <value>R</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <value>1</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prometheus-em.kicad_sch"/>
@@ -968,8 +974,8 @@
       <tstamps>7cd38afe-f1fc-479e-9ab1-806a8a89fdaa</tstamps>
     </comp>
     <comp ref="R14">
-      <value>R</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <value>1</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prometheus-em.kicad_sch"/>
@@ -1190,64 +1196,62 @@
       <tstamps>d3b4390d-48fe-44e4-9aef-6de227eb77a9</tstamps>
     </comp>
     <comp ref="S1">
-      <value>SKRPABE010</value>
-      <footprint>SamacSys_Parts:SKRPABE010</footprint>
-      <datasheet>https://datasheet.lcsc.com/szlcsc/ALPS-Electric-SKRPABE010_C115360.pdf</datasheet>
+      <value>SKRPACE010</value>
+      <footprint>SamacSys_Parts:SMT_4.2X3.2_</footprint>
+      <datasheet>http://www.alps.com/prod/info/E/HTML/Tact/SurfaceMount/SKRP/SKRPACE010.html</datasheet>
       <fields>
-        <field name="Description">Switch Tactile N.O. SPST Button J-Bend 0.05A 16VDC 1.57N SMD Automotive T/R</field>
-        <field name="Height">2.5</field>
-        <field name="LCSC">C115360</field>
+        <field name="Arrow Part Number">SKRPACE010</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/skrpace010/alps-electric</field>
+        <field name="Description">Tactile Switches 4.2x3.2x2.5mm 260gf</field>
         <field name="Manufacturer_Name">ALPS Electric</field>
-        <field name="Manufacturer_Part_Number">SKRPABE010</field>
-        <field name="Mouser Part Number">688-SKRPAB</field>
-        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Alps-Alpine/SKRPABE010?qs=m0BA540hBPe1GpcSf%2FZ5Yw%3D%3D</field>
+        <field name="Manufacturer_Part_Number">SKRPACE010</field>
+        <field name="Mouser Part Number">688-SKRPACE010</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Alps-Alpine/SKRPACE010?qs=dHDuPHwQO79W8iY66hDbLQ%3D%3D</field>
       </fields>
-      <libsource lib="SamacSys_Parts" part="SKRPABE010" description="Switch Tactile N.O. SPST Button J-Bend 0.05A 16VDC 1.57N SMD Automotive T/R"/>
-      <property name="Description" value="Switch Tactile N.O. SPST Button J-Bend 0.05A 16VDC 1.57N SMD Automotive T/R"/>
-      <property name="Height" value="2.5"/>
+      <libsource lib="SamacSys_Parts" part="SKRPACE010" description="Tactile Switches 4.2x3.2x2.5mm 260gf"/>
+      <property name="Description" value="Tactile Switches 4.2x3.2x2.5mm 260gf"/>
+      <property name="Height" value=""/>
       <property name="Manufacturer_Name" value="ALPS Electric"/>
-      <property name="Manufacturer_Part_Number" value="SKRPABE010"/>
-      <property name="Mouser Part Number" value="688-SKRPAB"/>
-      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Alps-Alpine/SKRPABE010?qs=m0BA540hBPe1GpcSf%2FZ5Yw%3D%3D"/>
-      <property name="Arrow Part Number" value=""/>
-      <property name="Arrow Price/Stock" value=""/>
+      <property name="Manufacturer_Part_Number" value="SKRPACE010"/>
+      <property name="Mouser Part Number" value="688-SKRPACE010"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Alps-Alpine/SKRPACE010?qs=dHDuPHwQO79W8iY66hDbLQ%3D%3D"/>
+      <property name="Arrow Part Number" value="SKRPACE010"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/skrpace010/alps-electric"/>
       <property name="Mouser Testing Part Number" value=""/>
       <property name="Mouser Testing Price/Stock" value=""/>
-      <property name="LCSC" value="C115360"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prometheus-em.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>4cb0fb7d-13c2-45bf-9b0c-818961b2545d</tstamps>
+      <tstamps>4548c354-c53c-4839-99fd-fdbdc95a2e94</tstamps>
     </comp>
     <comp ref="S2">
-      <value>SKRPABE010</value>
-      <footprint>SamacSys_Parts:SKRPABE010</footprint>
-      <datasheet>https://datasheet.lcsc.com/szlcsc/ALPS-Electric-SKRPABE010_C115360.pdf</datasheet>
+      <value>SKRPACE010</value>
+      <footprint>SamacSys_Parts:SMT_4.2X3.2_</footprint>
+      <datasheet>http://www.alps.com/prod/info/E/HTML/Tact/SurfaceMount/SKRP/SKRPACE010.html</datasheet>
       <fields>
-        <field name="Description">Switch Tactile N.O. SPST Button J-Bend 0.05A 16VDC 1.57N SMD Automotive T/R</field>
-        <field name="Height">2.5</field>
-        <field name="LCSC">C115360</field>
+        <field name="Arrow Part Number">SKRPACE010</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/skrpace010/alps-electric</field>
+        <field name="Description">Tactile Switches 4.2x3.2x2.5mm 260gf</field>
         <field name="Manufacturer_Name">ALPS Electric</field>
-        <field name="Manufacturer_Part_Number">SKRPABE010</field>
-        <field name="Mouser Part Number">688-SKRPAB</field>
-        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Alps-Alpine/SKRPABE010?qs=m0BA540hBPe1GpcSf%2FZ5Yw%3D%3D</field>
+        <field name="Manufacturer_Part_Number">SKRPACE010</field>
+        <field name="Mouser Part Number">688-SKRPACE010</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Alps-Alpine/SKRPACE010?qs=dHDuPHwQO79W8iY66hDbLQ%3D%3D</field>
       </fields>
-      <libsource lib="SamacSys_Parts" part="SKRPABE010" description="Switch Tactile N.O. SPST Button J-Bend 0.05A 16VDC 1.57N SMD Automotive T/R"/>
-      <property name="Description" value="Switch Tactile N.O. SPST Button J-Bend 0.05A 16VDC 1.57N SMD Automotive T/R"/>
-      <property name="Height" value="2.5"/>
+      <libsource lib="SamacSys_Parts" part="SKRPACE010" description="Tactile Switches 4.2x3.2x2.5mm 260gf"/>
+      <property name="Description" value="Tactile Switches 4.2x3.2x2.5mm 260gf"/>
+      <property name="Height" value=""/>
       <property name="Manufacturer_Name" value="ALPS Electric"/>
-      <property name="Manufacturer_Part_Number" value="SKRPABE010"/>
-      <property name="Mouser Part Number" value="688-SKRPAB"/>
-      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Alps-Alpine/SKRPABE010?qs=m0BA540hBPe1GpcSf%2FZ5Yw%3D%3D"/>
-      <property name="Arrow Part Number" value=""/>
-      <property name="Arrow Price/Stock" value=""/>
+      <property name="Manufacturer_Part_Number" value="SKRPACE010"/>
+      <property name="Mouser Part Number" value="688-SKRPACE010"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Alps-Alpine/SKRPACE010?qs=dHDuPHwQO79W8iY66hDbLQ%3D%3D"/>
+      <property name="Arrow Part Number" value="SKRPACE010"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/skrpace010/alps-electric"/>
       <property name="Mouser Testing Part Number" value=""/>
       <property name="Mouser Testing Price/Stock" value=""/>
-      <property name="LCSC" value="C115360"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prometheus-em.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>96263599-6336-4708-8300-7694412b7c8e</tstamps>
+      <tstamps>32def698-e8e0-4cf9-81a6-d7d82f28b8d8</tstamps>
     </comp>
     <comp ref="S3">
       <value>SSSS811101</value>
@@ -1706,26 +1710,27 @@
         <pin num="5" name="OUT" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="SamacSys_Parts" part="SKRPABE010">
-      <description>Switch Tactile N.O. SPST Button J-Bend 0.05A 16VDC 1.57N SMD Automotive T/R</description>
-      <docs>https://datasheet.lcsc.com/szlcsc/ALPS-Electric-SKRPABE010_C115360.pdf</docs>
+    <libpart lib="SamacSys_Parts" part="SKRPACE010">
+      <description>Tactile Switches 4.2x3.2x2.5mm 260gf</description>
+      <docs>http://www.alps.com/prod/info/E/HTML/Tact/SurfaceMount/SKRP/SKRPACE010.html</docs>
       <fields>
         <field name="Reference">S</field>
-        <field name="Value">SKRPABE010</field>
-        <field name="Footprint">SKRPABE010</field>
-        <field name="Datasheet">https://datasheet.lcsc.com/szlcsc/ALPS-Electric-SKRPABE010_C115360.pdf</field>
-        <field name="Description">Switch Tactile N.O. SPST Button J-Bend 0.05A 16VDC 1.57N SMD Automotive T/R</field>
-        <field name="Height">2.5</field>
+        <field name="Value">SKRPACE010</field>
+        <field name="Footprint">SMT(4.2X3.2)</field>
+        <field name="Datasheet">http://www.alps.com/prod/info/E/HTML/Tact/SurfaceMount/SKRP/SKRPACE010.html</field>
+        <field name="Description">Tactile Switches 4.2x3.2x2.5mm 260gf</field>
         <field name="Manufacturer_Name">ALPS Electric</field>
-        <field name="Manufacturer_Part_Number">SKRPABE010</field>
-        <field name="Mouser Part Number">688-SKRPAB</field>
-        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Alps-Alpine/SKRPABE010?qs=m0BA540hBPe1GpcSf%2FZ5Yw%3D%3D</field>
+        <field name="Manufacturer_Part_Number">SKRPACE010</field>
+        <field name="Mouser Part Number">688-SKRPACE010</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Alps-Alpine/SKRPACE010?qs=dHDuPHwQO79W8iY66hDbLQ%3D%3D</field>
+        <field name="Arrow Part Number">SKRPACE010</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/skrpace010/alps-electric</field>
       </fields>
       <pins>
-        <pin num="1" name="NO_1" type="passive"/>
-        <pin num="2" name="NO_2" type="passive"/>
-        <pin num="3" name="NO_3" type="passive"/>
-        <pin num="4" name="NO_4" type="passive"/>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
       </pins>
     </libpart>
     <libpart lib="SamacSys_Parts" part="SSSS811101">
@@ -1860,13 +1865,13 @@
       <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Diode.kicad_sym</uri>
     </library>
     <library logical="SamacSys_Parts">
-      <uri>D:/Documents/KiCad/Lib/SamacSys_Parts.lib</uri>
+      <uri>A:/Doc/KiCad/Library/SamacSys_Parts.lib</uri>
     </library>
     <library logical="prometheus-schlib">
-      <uri>C:\Users\Akio\Desktop\Dev\DERC\tanekonsat2022_runback\kicad2\prometheus-em/lib/prometheus-schlib.kicad_sym</uri>
+      <uri>A:\Desktop\Doshisha\DERC\tanekonsat2022_runback\kicad2\prometheus-em/lib/prometheus-schlib.kicad_sym</uri>
     </library>
     <library logical="tanekonsat">
-      <uri/>
+      <uri>A:/Desktop/Doshisha/DERC/tanekonsat2022_runback/kicad/lib/tanekonsat.kicad_sym</uri>
     </library>
   </libraries>
   <nets>
@@ -2095,8 +2100,8 @@
     </net>
     <net code="39" name="/RUN">
       <node ref="IC1" pin="26" pinfunction="RUN" pintype="passive"/>
-      <node ref="S2" pin="1" pinfunction="NO_1" pintype="passive"/>
-      <node ref="S2" pin="2" pinfunction="NO_2" pintype="passive"/>
+      <node ref="S2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="S2" pin="2" pinfunction="2" pintype="passive"/>
     </net>
     <net code="40" name="/USB_D_N">
       <node ref="R6" pin="2" pintype="passive"/>
@@ -2176,10 +2181,10 @@
       <node ref="R3" pin="2" pintype="passive"/>
       <node ref="R30" pin="1" pintype="passive"/>
       <node ref="R4" pin="2" pintype="passive"/>
-      <node ref="S1" pin="3" pinfunction="NO_3" pintype="passive"/>
-      <node ref="S1" pin="4" pinfunction="NO_4" pintype="passive"/>
-      <node ref="S2" pin="3" pinfunction="NO_3" pintype="passive"/>
-      <node ref="S2" pin="4" pinfunction="NO_4" pintype="passive"/>
+      <node ref="S1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="S1" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="S2" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="S2" pin="4" pinfunction="4" pintype="passive"/>
       <node ref="U1" pin="1" pinfunction="A1-B12_GND" pintype="input"/>
       <node ref="U1" pin="12" pinfunction="A12-B1_GND" pintype="input"/>
       <node ref="U1" pin="SHIELD" pinfunction="SHIELD" pintype="input"/>
@@ -2271,8 +2276,8 @@
     </net>
     <net code="63" name="Net-(R2-Pad1)">
       <node ref="R2" pin="1" pintype="passive"/>
-      <node ref="S1" pin="1" pinfunction="NO_1" pintype="passive"/>
-      <node ref="S1" pin="2" pinfunction="NO_2" pintype="passive"/>
+      <node ref="S1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="S1" pin="2" pinfunction="2" pintype="passive"/>
     </net>
     <net code="64" name="Net-(R3-Pad1)">
       <node ref="R3" pin="1" pintype="passive"/>
@@ -2291,7 +2296,7 @@
       <node ref="R22" pin="1" pintype="passive"/>
       <node ref="S3" pin="3" pinfunction="3" pintype="passive"/>
     </net>
-    <net code="68" name="Net-(U2-Pad5)">
+    <net code="68" name="Net-(R30-Pad2)">
       <node ref="R30" pin="2" pintype="passive"/>
       <node ref="U2" pin="5" pinfunction="AD0" pintype="input"/>
     </net>

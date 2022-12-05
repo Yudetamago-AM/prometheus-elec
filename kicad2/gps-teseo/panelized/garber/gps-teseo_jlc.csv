@@ -1,0 +1,14 @@
+Comment,Designator,Footprint,LCSC
+1p,"C1,C6,C16,C21",Capacitor_SMD:C_0402_1005Metric,C1550
+100p,"C2,C4,C7,C9,C17,C19,C22,C24",Capacitor_SMD:C_0402_1005Metric,C1546
+120p,"C3,C8,C18,C23",Capacitor_SMD:C_0402_1005Metric,C307442
+470p,"C5,C10,C20,C25",Capacitor_SMD:C_0402_1005Metric,C1537
+SAFEA1G58KA0F00R15,"FL1,FL2,FL4,FL5",SamacSys_Parts:SAFEA1G58KA0F00R15,C91641
+TESEO-LIV3F,IC1,SamacSys_Parts:SON110P970X1010X230-18N,
+CGGBPD.25.A,IC2,SamacSys_Parts:CGGBPD25A,
+MAX2641EUT+T,IC3,SamacSys_Parts:SOT95P280X145-6N,
+Conn_01x05_Male,J1,tanekonsat:PinHeader_1x05_P2.00mm_Vertical,
+I2C,J2,tanekonsat:PinHeader_1x02_P2.00mm_Vertical,
+5.6n,L1,Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder,
+6.8n,L2,Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder,
+CR1025,U1,tanekonsat:CR1025_Holder,

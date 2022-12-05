@@ -7446,10 +7446,10 @@
       (reference "J4") (unit 1) (value "ToF") (footprint "Connector_JST_ZH:JST_ZH_B5B-ZR_1x05_P1.50mm_Vertical")
     )
     (path "/6eb87d4c-1df8-4ce3-90b5-0041ac499d24"
-      (reference "J5") (unit 1) (value "Motor1") (footprint "tanekonsat:PinHeader_1x02_P2.00mm_Vertical")
+      (reference "J5") (unit 1) (value "Motor1") (footprint "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical")
     )
     (path "/cf5b0b37-89a5-44e7-b375-1edaeaf6a8ba"
-      (reference "J6") (unit 1) (value "Motor2") (footprint "tanekonsat:PinHeader_1x02_P2.00mm_Vertical")
+      (reference "J6") (unit 1) (value "Motor2") (footprint "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical")
     )
     (path "/71956464-6dca-46be-88d3-5e624f47ecc5"
       (reference "J7") (unit 1) (value "JST_PH_3_Side") (footprint "Connectors_JST:JST_PH_S3B-PH-K_03x2.00mm_Angled")
@@ -7494,19 +7494,19 @@
       (reference "R9") (unit 1) (value "2.2k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/71a72575-8727-411f-a88e-a4683852ba86"
-      (reference "R10") (unit 1) (value "R") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R10") (unit 1) (value "1") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/98801a53-f2e0-48b6-9081-c7857c94e61c"
-      (reference "R11") (unit 1) (value "R") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R11") (unit 1) (value "1") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/faa3e633-db4d-4d84-9bcd-0f6c7eb6ba70"
       (reference "R12") (unit 1) (value "2.2k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/7cd38afe-f1fc-479e-9ab1-806a8a89fdaa"
-      (reference "R13") (unit 1) (value "R") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R13") (unit 1) (value "1") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/46b6e17b-e252-4994-bc92-45adb7b58721"
-      (reference "R14") (unit 1) (value "R") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R14") (unit 1) (value "1") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/cb4d2e03-ba57-419c-9dd3-bed647635c30"
       (reference "R15") (unit 1) (value "2.2k") (footprint "Resistor_SMD:R_0402_1005Metric")

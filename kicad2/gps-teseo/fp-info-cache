@@ -1,0 +1,92 @@
+21612450379365
+tanekonsat
+BNO085
+BNO085-1
+Accelerometer
+0
+28
+28
+tanekonsat
+CR1025_Holder
+
+
+0
+3
+2
+tanekonsat
+CR2032
+
+
+0
+3
+2
+tanekonsat
+CR2032_CH28
+
+
+0
+2
+2
+tanekonsat
+CR2032_CH075
+
+
+0
+2
+2
+tanekonsat
+HTSSOP-14_4.4x5mm_P0.65mm_Mask3x3.1mm
+HTSSOP, 14 Pin (http://www.ti.com/lit/ds/symlink/lm5161.pdf#page=34), generated with kicad-footprint-generator ipc_gullwing_generator.py
+HTSSOP SO
+0
+14
+14
+tanekonsat
+ICM-20948_SL
+
+
+0
+11
+11
+tanekonsat
+Jumper_0402_1005Metric
+Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+tanekonsat
+PinHeader_1x02_P2.00mm_Vertical
+Through hole straight pin header, 1x02, 2.00mm pitch, single row
+Through hole pin header THT 1x02 2.00mm single row
+0
+2
+2
+tanekonsat
+PinHeader_1x04_P2.00mm_Vertical
+Through hole straight pin header, 1x04, 2.00mm pitch, single row
+Through hole pin header THT 1x04 2.00mm single row
+0
+4
+4
+tanekonsat
+PinHeader_1x05_P2.00mm_Vertical
+Through hole straight pin header, 1x05, 2.00mm pitch, single row
+Through hole pin header THT 1x05 2.00mm single row
+0
+5
+5
+tanekonsat
+PinHeader_1x06_P2.00mm_Vertical
+Through hole straight pin header, 1x06, 2.00mm pitch, single row
+Through hole pin header THT 1x06 2.00mm single row
+0
+6
+6
+tanekonsat
+USB_typeC_t
+
+
+0
+16
+13
