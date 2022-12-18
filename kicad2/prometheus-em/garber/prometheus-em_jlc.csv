@@ -26,7 +26,7 @@ Comment,Designator,Footprint,LCSC
 "Nichrome","J8","Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical",""
 "IRFML8244TRPBF","Q1,Q2,Q3","SamacSys_Parts:SOT95P237X112-3N",""
 "1k","R1,R2,R7,R21,R28,R31","Resistor_SMD:R_0402_1005Metric","C11702"
-"1","R10,R11,R13,R14","Resistor_SMD:R_0402_1005Metric",""
+"1","R10,R11,R13,R14","Resistor_SMD:R_0603_1608Metric",""
 "30k","R17","Resistor_SMD:R_0603_1608Metric","C22984"
 "10k","R18,R22,R23,R24,R26,R27,R30","Resistor_SMD:R_0402_1005Metric","C25744"
 "100","R19,R20","Resistor_SMD:R_0402_1005Metric","C25076"

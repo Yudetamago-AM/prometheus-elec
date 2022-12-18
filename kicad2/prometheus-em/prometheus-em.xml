@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>A:\Desktop\Doshisha\DERC\tanekonsat2022_runback\kicad2\prometheus-em\prometheus-em.kicad_sch</source>
-    <date>12/6/2022 12:47:23 AM</date>
+    <date>12/7/2022 12:30:53 AM</date>
     <tool>Eeschema (6.0.4)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -935,7 +935,7 @@
     </comp>
     <comp ref="R10">
       <value>1</value>
-      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prometheus-em.kicad_sch"/>
@@ -944,7 +944,7 @@
     </comp>
     <comp ref="R11">
       <value>1</value>
-      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prometheus-em.kicad_sch"/>
@@ -966,7 +966,7 @@
     </comp>
     <comp ref="R13">
       <value>1</value>
-      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prometheus-em.kicad_sch"/>
@@ -975,7 +975,7 @@
     </comp>
     <comp ref="R14">
       <value>1</value>
-      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prometheus-em.kicad_sch"/>
