@@ -1,295 +1,148 @@
-69768773311695
-SamacSys_Parts
-101181940001LFBKN
-10118194-0001LF/BKN-6
-Connector
-0
-11
-11
-SamacSys_Parts
-BGA8C50P2X4_89X189X62
-YZT (R-XBGA-N8)
-Integrated Circuit
-0
-8
-8
-SamacSys_Parts
-BNO085
-BNO085-1
-Accelerometer
-0
-28
-28
-SamacSys_Parts
-CGGBPD25A
-CGGBPD.25.A-3
-Integrated Circuit
-0
-1
-1
-SamacSys_Parts
-FA238V120000MBK3
-FA-238V 12.0000MB-K3-2
-Crystal or Oscillator
-0
-4
-4
-SamacSys_Parts
-FC-135
-FC-135
-Crystal or Oscillator
+34595470163743
+Jumper
+SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm
+SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, bridged with 2 copper strips
+net tie solder jumper bridged
 0
 2
 2
-SamacSys_Parts
-K31293SE2
-K3-1293S-E2-2
-Connector
-0
-7
-7
-SamacSys_Parts
-NE555DR
-D (R-PDSO-G8)
-Integrated Circuit
-0
-8
-8
-SamacSys_Parts
-NJL5901AR1TE1
-NJL5901AR-1-TE1-1
-Integrated Circuit
-0
-4
-4
-SamacSys_Parts
-QFN40P700X700X90-57N-D
-RP 2040
-Integrated Circuit
-0
-57
-57
-SamacSys_Parts
-RB521G30T2R
-SOD-723 SC-104A VMD2
-Diode
+Jumper
+SolderJumper-2_P1.3mm_Bridged2Bar_RoundedPad1.0x1.5mm
+SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, bridged with 2 copper strips
+net tie solder jumper bridged
 0
 2
 2
-SamacSys_Parts
-SAFEA1G58KA0F00R15
-SAFEA1G58KA0F00R15-3
-Filter
-0
-5
-5
-SamacSys_Parts
-SKRPABE010
-SKRPABE010-1
-Switch
-0
-4
-4
-SamacSys_Parts
-SMT_4.2X3.2_
-SMT(4.2x3.2)
-Switch
-0
-4
-4
-SamacSys_Parts
-SODFL3618X110N
-SOD-123FL
-Schottky Diode
+Jumper
+SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm
+SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, bridged with 1 copper strip
+net tie solder jumper bridged
 0
 2
 2
-SamacSys_Parts
-SOIC127P600X175-8N
-SO8: plastic small outline package; 8 leads; body width 3.9 mm
-Integrated Circuit
-0
-8
-8
-SamacSys_Parts
-SOIC127P600X175-9N
-P-HSOP8-0405-1.27-001
-Integrated Circuit
-0
-9
-9
-SamacSys_Parts
-SOIC127P700X220-8N
-SO-8
-Integrated Circuit
-0
-8
-8
-SamacSys_Parts
-SOIC127P790X216-8N
-W25Q128JVSIQ
-Integrated Circuit
-0
-8
-8
-SamacSys_Parts
-SON110P970X1010X230-18N
-TESEO-LIV3F
-Integrated Circuit
-0
-18
-18
-SamacSys_Parts
-SOP50P310X90-8N
-DCU (R-PDSO-G8)
-Integrated Circuit
-0
-8
-8
-SamacSys_Parts
-SOP254P1016X460-8N
-LTV-824S
-Integrated Circuit
-0
-8
-8
-SamacSys_Parts
-SOT-89-3
-SOT-89-3
-Integrated Circuit
-0
-4
-4
-SamacSys_Parts
-SOT-89-5-1
-SOT-89-5-1
-Integrated Circuit
-0
-7
-7
-SamacSys_Parts
-SOT65P210X100-5N
-NJM2878F3-33-TE
-Integrated Circuit
-0
-5
-5
-SamacSys_Parts
-SOT95P237X112-3N
-IRLML5203TRPBF
-MOSFET (P-Channel)
-0
-3
-3
-SamacSys_Parts
-SOT95P240X115-3N
-XC6206P332MR
-Integrated Circuit
-0
-3
-3
-SamacSys_Parts
-SOT95P240X120-3N
-ahana
-MOSFET (N-Channel)
-0
-3
-3
-SamacSys_Parts
-SOT95P275X130-5N
-SOT 23-5 A PKG
-Integrated Circuit
-0
-5
-5
-SamacSys_Parts
-SOT95P275X140-5N
-SSOP5-P-0.95
-Integrated Circuit
-0
-5
-5
-SamacSys_Parts
-SOT95P280X120-5N
-SOT-23-5 (MTP-5)
-Integrated Circuit
-0
-5
-5
-SamacSys_Parts
-SOT95P280X130-5N
-SOT-23-5 (MTP-5) (1)
-Integrated Circuit
-0
-5
-5
-SamacSys_Parts
-SOT95P280X145-6N
-U6 +4
-Integrated Circuit
-0
-6
-6
-SamacSys_Parts
-SOT230P700X180-4N
-KC-3 (SOT-223)
-Integrated Circuit
-0
-4
-4
-SamacSys_Parts
-SS22F06G5A
-SS-22F06-G5-A-1
-Switch
-0
-6
-6
-SamacSys_Parts
-SSAJ120100
-SSAJ120100-1
-Switch
-0
-5
-5
-SamacSys_Parts
-SSSS811101
-SSSS811101
-Switch
-0
-7
-7
-SamacSys_Parts
-TO-252-3-L1
-TO-252-3-L1
-Integrated Circuit
-0
-3
-3
-SamacSys_Parts
-TO229P240X654X875-3P
-IPAK SL (TO-251 SL)
-MOSFET (N-Channel)
-0
-3
-3
-SamacSys_Parts
-TO229P241X654X988-3P
-TO-251
-MOSFET (N-Channel)
-0
-3
-3
-SamacSys_Parts
-TVBP06B043CWB
-TVBP06-B043CW-B-2
-Switch
+Jumper
+SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm
+SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, bridged with 1 copper strip
+net tie solder jumper bridged
 0
 2
 2
-SamacSys_Parts
-ZX62R-B-5P_30_
-ZX62R-B-5P(30)
-Connector
+Jumper
+SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm
+SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, open
+solder jumper open
 0
-11
-11
+2
+2
+Jumper
+SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm
+SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open
+solder jumper open
+0
+2
+2
+Jumper
+SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm
+SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open
+solder jumper open
+0
+2
+2
+Jumper
+SolderJumper-3_P1.3mm_Bridged2Bar12_Pad1.0x1.5mm
+SMD Solder 3-pad Jumper, 1x1.5mm Pads, 0.3mm gap, pads 1-2 Bridged2Bar with 2 copper strip
+net tie solder jumper bridged
+0
+3
+3
+Jumper
+SolderJumper-3_P1.3mm_Bridged2Bar12_Pad1.0x1.5mm_NumberLabels
+SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, pads 1-2 Bridged2Bar with 2 copper strip, labeled with numbers
+net tie solder jumper bridged
+0
+3
+3
+Jumper
+SolderJumper-3_P1.3mm_Bridged2Bar12_RoundedPad1.0x1.5mm
+SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 Bridged2Bar with 2 copper strip
+net tie solder jumper bridged
+0
+3
+3
+Jumper
+SolderJumper-3_P1.3mm_Bridged2Bar12_RoundedPad1.0x1.5mm_NumberLabels
+SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 Bridged2Bar with 2 copper strip, labeled with numbers
+net tie solder jumper bridged
+0
+3
+3
+Jumper
+SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm
+SMD Solder 3-pad Jumper, 1x1.5mm Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip
+net tie solder jumper bridged
+0
+3
+3
+Jumper
+SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm_NumberLabels
+SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip, labeled with numbers
+net tie solder jumper bridged
+0
+3
+3
+Jumper
+SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm
+SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip
+net tie solder jumper bridged
+0
+3
+3
+Jumper
+SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels
+SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip, labeled with numbers
+net tie solder jumper bridged
+0
+3
+3
+Jumper
+SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm
+SMD Solder 3-pad Jumper, 1x1.5mm Pads, 0.3mm gap, open
+solder jumper open
+0
+3
+3
+Jumper
+SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm_NumberLabels
+SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, open, labeled with numbers
+solder jumper open
+0
+3
+3
+Jumper
+SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm
+SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, open
+solder jumper open
+0
+3
+3
+Jumper
+SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels
+SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, open, labeled with numbers
+solder jumper open
+0
+3
+3
+Jumper
+SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm
+SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open
+solder jumper open
+0
+5
+3
+Jumper
+SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm_NumberLabels
+SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open, labeled with numbers
+solder jumper open
+0
+5
+3
